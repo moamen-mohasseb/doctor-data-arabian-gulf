@@ -1,0 +1,2146 @@
+<html dir="ltr" lang="en-US" style="height: 100%;"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"><meta charset="utf-8"><meta name="GENERATOR" content="Microsoft SharePoint"><meta http-equiv="Content-type" content="text/html; charset=utf-8"><meta http-equiv="Expires" content="0"><meta name="revisit-after" content="2 days"><meta name="keywords" content="News, Events, Multimedia, Services, eServices, Exams, Open Data, Careers, UAE, Health and Visiting Professionals, Hospitals, Health care center,"><meta name="ROBOTS" content="INDEX, FOLLOW"><meta name="description" content="Find information related to News, Events, Multimedia, Services, eServices, Exams, Open Data, Careers,Health and Visiting Professionals,Hospitals,Health care center,Publications from Ministry of Health">
+        <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://vmss-eu.boldchat.com/aid/157673451443696933/bc.vms4/vms.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/r8jtf1oixV0IGff4hgB4EzDF/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-cIN2qskPjCnyJJulsKDG+cD5Wi3buGp1YQMnWMCuYOOtMHvU/xRFNjwulcPURQ69"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <script type="text/javascript" src="/_catalogs/masterpage/MOH_Master/js/jquery.simplerWeather.js"></script>
+        <!-- ===== STARTER: Robots  ======================================================================================================= -->
+        
+        <!-- ===== STARTER: Favicon / Windows Tile ======================================================================================== -->
+        <link rel="shortcut icon" href="/_catalogs/masterpage/MOH_Master/favicon.ico" type="image/vnd.microsoft.icon" id="favicon"><meta name="msapplication-TileImage" content="/_catalogs/masterpage/MOH_Master/MOH.png"><meta name="msapplication-TileColor" content="#ffffff"><link rel="apple-touch-icon" sizes="180x180" href="/_catalogs/masterpage/MOH_Master/favicons/apple-touch-icon.png"><link rel="icon" type="image/png" href="/_catalogs/masterpage/MOH_Master/favicons/favicon-32x32.png" sizes="32x32"><link rel="icon" type="image/png" href="/_catalogs/masterpage/MOH_Master/favicons/favicon-16x16.png" sizes="16x16">
+        <!--link rel="manifest" href="/_catalogs/masterpage/MOH_Master/favicons/manifest.json"-->
+        <link rel="mask-icon" href="/_catalogs/masterpage/MOH_Master/favicons/safari-pinned-tab.svg" color="#b68a35"><meta name="theme-color" content="#ffffff">
+
+
+        <!-- ===== STARTER: Page Title loaded from page or page layout ==================================================================== -->
+       
+        <title>
+	
+	Professional Doctors  -
+ Ministry of Health and Prevention - UAE
+</title>
+        <!-- ===== STARTER: SP Scripts and CSS  =========================================================================================== -->
+        <link rel="stylesheet" type="text/css" href="/_catalogs/theme/Themed/1876253E/pagelayouts15-ACE7C7F2.themedcss?ctag=8">
+<link rel="stylesheet" type="text/css" href="/_catalogs/theme/Themed/1876253E/corev15-51C31438.themedcss?ctag=8">
+<link id="CssRegistration1" rel="stylesheet" type="text/css" href="/_catalogs/masterpage/MOH_Master/css/bootstrap.min.css">
+<link id="CssRegistration2" rel="stylesheet" type="text/css" href="/_catalogs/masterpage/MOH_Master/lib/font-awesome.min.css">
+<link id="CssRegistration3" rel="stylesheet" type="text/css" href="/_catalogs/masterpage/MOH_Master/lib/animate.min.css">
+<link id="CssRegistration7" rel="stylesheet" type="text/css" href="/_catalogs/masterpage/MOH_Master/lib/jquery.rateyo.min.css">
+<link id="CssRegistration6" rel="stylesheet" type="text/css" href="/_catalogs/masterpage/MOH_Master/lib/perfect-scrollbar.min.css">
+<link id="CssRegistration8" rel="stylesheet" type="text/css" href="/_catalogs/masterpage/MOH_Master/css/style.css">
+<script type="text/javascript" src="/_layouts/15/16.0.5056.1001/1033/initstrings.js"></script>
+<script type="text/javascript" src="/_layouts/15/16.0.5056.1001/init.js"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=fP2lce9ZVMq-nyH9DwEodNF_8yTgcmZNjH51rfizByBzC_QGYiNmRxuDVhluqRhoDgBaH7eRpsrb4DE8mAVU9OaQ5BMtqZ74hCmz5PX2y_b8MGhSSjtiIMGfFQd1Of4WL3SMVLRj-pfFYVzNoS-lKAyLn4wbvpUWRnAphzXGCBLNGAmuxJR6U6pKQggp-5Np0&amp;t=ffffffffdfc97409"></script>
+<script type="text/javascript" src="/_layouts/15/16.0.5056.1001/blank.js"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=1tcfRolCNDVnB91osztsoLnw5_uKtQHw1ejON1zZuXewdwziBxhi6kDzmqls-zp_GUDPJBgzauHcKTZkBSGxl7JdQkrYlhlAaEi0cwHqFhpQDe967EjHSw-Z96OUHe2jA0tW8RZgsBMIkyc3iJVPE2IJR7G8omAuZg-VVfSIdswLJR8qpN9ChSwtKKkPjjFk0&amp;t=ffffffffdfc97409"></script>
+<script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002frequire.js");</script>
+<script type="text/javascript">RegisterSod("strings.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002f1033\u002fstrings.js");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002f1033\u002fsp.res.js");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fsp.runtime.js");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fsp.js");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fsp.init.js");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fsp.ui.dialog.js");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fcore.js");RegisterSodDep("core.js", "strings.js");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fmenu.js");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fmquery.js");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fcallout.js");RegisterSodDep("callout.js", "strings.js");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fsp.core.js");RegisterSodDep("sp.core.js", "strings.js");RegisterSodDep("sp.core.js", "sp.init.js");RegisterSodDep("sp.core.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sharedhovercard.strings.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002f1033\u002fsharedhovercard.strings.js");</script>
+<script type="text/javascript">RegisterSod("sharedhovercard.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fsharedhovercard.js");RegisterSodDep("sharedhovercard.js", "sharedhovercard.strings.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fclienttemplates.js");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fsharing.js");RegisterSodDep("sharing.js", "strings.js");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fsuitelinks.js");RegisterSodDep("suitelinks.js", "strings.js");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fsp.userprofiles.js");RegisterSodDep("userprofile", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002ffollowingcommon.js");RegisterSodDep("followingcommon.js", "strings.js");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002f1033\u002fprofilebrowserscriptres.js");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fsp.ui.mysitecommon.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002fie55up.js");RegisterSodDep("browserScript", "strings.js");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002f16.0.5056.1001\u002finplview.js");RegisterSodDep("inplview", "strings.js");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "clienttemplates.js");RegisterSodDep("inplview", "sp.js");</script>
+<link type="text/xml" rel="alternate" href="/en/_vti_bin/spsdisco.aspx">
+
+        <!-- ===== STARTER: Additional header placeholder - overridden by asp:content on pages or page layouts  =========================== -->
+        <!-- _lcid="1033" _version="16.0.5095" _dal="1" -->
+<!-- _LocalBinding -->
+
+<link rel="canonical" href="https://www.mohap.gov.ae:443/en/Pages/profdoctors.aspx">
+
+        <!-- ===== STARTER: Core SharePoint CSS =========================================================================================== -->
+        
+
+        <!-- ===== STARTER: Custom CSS  =================================================================================================== -->
+        
+
+        <!-- Owl Carousel Assets -->
+        <link href="/_catalogs/masterpage/MOH_Master/lib/owl.carousel.min.css" rel="stylesheet" type="text/css"><link href="/_catalogs/masterpage/MOH_Master/lib/owl.theme.min.css" rel="stylesheet" type="text/css"><link href="/_catalogs/masterpage/MOH_Master/lib/jquery-ui.css" rel="stylesheet">
+   
+       <script type="text/javascript" src="/Style Library/js/jquery.isloading.min.js"></script>
+<script type="text/javascript" src="/Style Library/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/Style Library/js/jquery.creaseFont.min.js"></script>
+        <!--script type="text/javascript">
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date(); a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+            ga('create', 'UA-97179474-1', 'auto');
+            ga('send', 'pageview');
+
+        </script-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<!--script async src="https://www.googletagmanager.com/gtag/js?id=UA-139456583-1"></script-->
+<!--script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-139456583-1');
+</script-->
+
+    <link id="rsmod_Styles" type="text/css" rel="stylesheet" href="//f1-as.readspeaker.com/script/7426/ReadSpeaker.Styles.css?v=2.5.15.6627"><script id="req_Core" type="text/javascript" src="//f1-as.readspeaker.com/script/7426/ReadSpeaker.Core.js?v=2.5.15.6627" async=""></script><script id="req_pub_Config" type="text/javascript" src="//f1-as.readspeaker.com/script/7426/ReadSpeaker.pub.Config.js?v=2.5.15.6627" async=""></script><script type="text/javascript" src="/_layouts/15/16.0.5056.1001/1033/sp.res.js"></script><script type="text/javascript" src="/_layouts/15/16.0.5056.1001/sp.init.js"></script><script id="rsmod_lib_Facade.adapter.jquery" type="text/javascript" src="//f1-as.readspeaker.com/script/7426/ReadSpeaker.lib.Facade.adapter.jquery.js?v=2.5.15.6627"></script><script id="rsmod_Base" type="text/javascript" src="//f1-as.readspeaker.com/script/7426/ReadSpeaker.Base.js?v=2.5.15.6627" async=""></script><style>@media (min-width: 1200px) {  .happiness-meter-widget-web-button[dir=ltr] {right: auto; right: 53px;  }  }</style><style>.navbar-fixed-bottom{background-color:#be9647;position:relative;display:none;color:#fff}.greentheme .navbar-fixed-bottom{background-color:#00843d}.maroontheme .navbar-fixed-bottom{background-color:#c8122e}.blacktheme .navbar-fixed-bottom{background-color:#444}.colorblind .navbar-fixed-bottom{background-color:#0ff}.greentheme>div#DeafServicePlace{background-color:#00843d}.colorblind>div#DeafServicePlace{background-color:#0ff}.blacktheme>div#DeafServicePlace{background-color:#444}.maroontheme>div#DeafServicePlace{background-color:#c8122e}.greentheme #resChatBotIcon{content:url(https://s3.amazonaws.com/mkesari.bold360demo.com/rsz_greenimg.png)}.maroontheme #resChatBotIcon{content:url(https://s3.amazonaws.com/mkesari.bold360demo.com/rsz_redimg.png)}.blacktheme #resChatBotIcon{content:url(https://s3.amazonaws.com/mkesari.bold360demo.com/rsz_blackimg.png)}.colorblind #resChatBotIcon{content:url(https://s3.amazonaws.com/mkesari.bold360demo.com/rsz_blackimg.png)}@media only screen and (max-width:600px){.fotter-bottom{margin-bottom:25px}.navbar-fixed-bottom{position:fixed;bottom:0;left:0;width:100%;z-index:3;display:block}.bcFloat{display:none!important}#DeafServicePlace{display:none!important}img[src*="icons%20dr.png"]{display:none}.happiness-meter-widget-web-button{display:none}}[nr-welcome-ui-parent-node]{z-index:100000000}#DeafServicePlace{width:149px}</style><style>@media all and (max-width: 768px) { .heightLong {height:727px  !important;}  .heightShort {height:380px  !important;}}</style><style>@media all and (max-width: 768px) { .succSdgIframe{margin-top: :0px !important; } } .succSdgIframe{margin-top: 0px !important; min-height: 246px !important;} }</style><style>@media (max-width: 320px) { .row.head-middle .navbar-toggle {padding: 1px 10px;}</style><style>.sidebar .tooltip{ pointer-events: none;  }</style><link href="/_catalogs/masterpage/MOH_Master/js/IntroJS/introjs.min.css" rel="stylesheet"><style type="text/css" id="readspeaker_inline_styles"></style><link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css"><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/translate_static/js/element/main.js"></script><script type="text/javascript" src="/_layouts/15/16.0.5056.1001/sp.ui.dialog.js"></script><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/element/TE_20201130_00/e/js/element/element_main.js"></script><script type="text/javascript" src="/_layouts/15/16.0.5056.1001/1033/strings.js"></script><style>.numvis{padding-right: 15px!important; padding-left: 15px !important; }</style><script type="text/javascript" src="/_layouts/15/16.0.5056.1001/core.js"></script><style>#nanorep1 #nanorep-fw .conversation-entry-user__message {    background: #be9647;}</style><script type="text/javascript" src="/_layouts/15/16.0.5056.1001/mquery.js"></script><script type="text/javascript" src="/_layouts/15/16.0.5056.1001/sp.runtime.js"></script><script type="text/javascript" src="/_layouts/15/16.0.5056.1001/sp.js"></script><style>#nanorep1 #nanorep-fw .conversation-entry-user__message {    background: #be9647;}</style><script type="text/javascript" src="/_layouts/15/16.0.5056.1001/sp.core.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-139456583-1"></script><link type="text/css" rel="stylesheet" href="https://happinessmeter.gov.ae/webwidget/web.css"><script id="bcvm_script_1611231959180" async="" type="text/javascript" src="https://vms-eu.boldchat.com/aid/157673451443696933/bc.pv?script=true&amp;securevm=true&amp;&amp;blur=false&amp;vm=true&amp;poll=65000&amp;swidth=1366&amp;sheight=768&amp;sdpi=96&amp;pve=158881078524968062T0C8293263522C7C4F40FD86EE0F3D31E0F2D3B46FBEE8A5A9892B105BD3DD6D3BFCCA21A94DC065F4762D42D057CBA783041D6536D4E1269565E747FE413903B&amp;url=https%3A%2F%2Fwww.mohap.gov.ae%2Fen%2FPages%2Fprofdoctors.aspx&amp;wdid=158477431718600854&amp;1611231959178&amp;visitorToken=6757992682353020928&amp;tabIdentifier=7412377489731950395&amp;clientScheme=https&amp;_bcvm_vrid_=true&amp;_bcvm_vid_158477431718600854=1611231959180S158881069459826139T036CE59945A3424E130870D2915533C1D7072D67925C11F54813EC5FD8215F2F857D9AAE671CFB44D79F8FC2F47C98B8971BE92FE4EB4B253971E8DD9CB9FECE&amp;_bcvm_vrid_158477431718600854=1611231959180S158881069505795317T771E781DE70B7AC5ABD4DE55755227F7643C8AC38EF722F210FB5072DB21396D3871B8B0D2C7B82BBBBDC7CBF9BB60D6FF2DA2B3EC141357747AACAE7D438FD7&amp;&amp;hasbutton=false&amp;fcbdid=158477438436708971"></script><style>#nanorep1 #nanorep-fw .conversation-entry-user__message {    background: #be9647;}</style><style>#nanorep1 #nanorep-fw .conversation-entry-user__message {    background: #be9647;}</style><style>#nanorep1 #nanorep-fw .conversation-entry-user__message {    background: #be9647;}</style><style>#nanorep1 #nanorep-fw .conversation-entry-user__message {    background: #be9647;}</style><style>#nanorep1 #nanorep-fw .conversation-entry-user__message {    background: #be9647;}</style><style>#nanorep1 #nanorep-fw .conversation-entry-user__message {    background: #be9647;}</style><style>#nanorep1 #nanorep-fw .conversation-entry-user__message {    background: #be9647;}</style><style>#nanorep1 #nanorep-fw .conversation-entry-user__message {    background: #be9647;}</style><style>#nanorep1 #nanorep-fw .conversation-entry-user__message {    background: #be9647;}</style><style>#nanorep1 #nanorep-fw .conversation-entry-user__message {    background: #be9647;}</style><style>#nanorep1 #nanorep-fw .conversation-entry-user__message {    background: #be9647;}</style></head>
+    <body onload="HideLoader();" onbeforeunload="setColor($.cookie(" moh-color"));="" showloader();"="" data-rsevent-id="rs_550372" style="position: relative; min-height: 100%; top: 0px; overflow: visible;" class=" ms-backgroundImage">
+     <div id="ctl00_Refferences1" __webpartid="{A6B0E697-F2D4-4673-B08F-0608787955C5}">
+	
+
+
+
+
+<script type="text/javascript" src="/Style%20Library/js/Global.min.js"></script>
+
+
+<script src="//f1-as.readspeaker.com/script/7426/ReadSpeaker.js?pids=embhl" type="text/javascript"></script>
+
+<script language="javascript" type="text/javascript">
+
+    $(function() {
+        $("noscript, .ms-hide, [style*='display: none'], [style*='display:none'] ").each(function () {
+            $(this).addClass("rs_skip");
+            $(this).addClass("rs_preserve");
+        });
+    });
+    
+
+    function ReadText() {
+        var url = location.href;
+        url = url.replace("spdev", "52.164.208.169");
+        if (window.location.href.indexOf('/en') > -1) // if (getCookie('lcid') == 1033)				//if (SP.Res.lcid == 1033)
+            url = "http://app.eu.readspeaker.com/cgi-bin/rsent?customerid=7426&amp;lang=en_uk&amp;readid=masterContent&amp;url=";//+ url;
+        else if (window.location.href.indexOf('/ar') > -1) //	else  if (getCookie('lcid') == 1025)
+            url = "http://app.as.readspeaker.com/cgi-bin/rsent?customerid=7426&amp;lang=ar_ar&amp;readid=masterContent&amp;url=";// + url;
+        //href="//app-as.readspeaker.com/cgi-bin/rsent?customerid=7426&lang=ar_ar&readid=[READID]&url=[ENCODED_URL]
+        $(function() {
+            readpage(url, 'xp1');
+        });
+    }
+   
+    //<!--
+    window.rsConf = {general: {usePost: true}};
+    //-->
+
+</script>
+
+</div>
+ <script>
+        SP.SOD.executeFunc("SP.js","ClientContext",function(){
+        
+        	 if(document.location.protocol.toLowerCase().indexOf("https:")>-1)
+				{
+					_spPageContextInfo.webAbsoluteUrl=_spPageContextInfo.webAbsoluteUrl.replace("http:","https:");
+					_spPageContextInfo.siteAbsoluteUrl=_spPageContextInfo.siteAbsoluteUrl.replace("http:","https:");
+				}
+        });
+       
+        </script>
+        
+        
+
+    <!-- Start of LiveChat (www.livechatinc.com) code -->
+
+       
+
+        <!-- End of LiveChat code -->
+        <!-- ===== STARTER: SP IDs / Prefetch SP images / SP Form  =========================================================================== -->
+        
+        <div id="imgPrefetch" style="display:none" class="rs_skip rs_preserve">
+
+<img src="/_catalogs/masterpage/MOH_Master/imgs/logo-en.png">
+<img src="/_layouts/15/images/spcommon.png" alt="Portal Icon">
+</div>
+
+        <form method="post" action="/en/Pages/profdoctors.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="">
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False">
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="ctl00$ctl54$g_358d628f_a927_4218_9168_f21c190735a7$ctl00$btnSearch">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x9BBA0AFC6BFF43D8F3B39988FD7551D6D26EC3D6B8DB1CC162FF77AFACBA5181C74F0B797F89A17F7B3C66538771AF97ABD87690FEA735481DFE2E2EFE57B96B,21 Jan 2021 12:25:57 -0000">
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false">
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="">
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="">
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="">
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false">
+<input type="hidden" name="SideBySideToken" id="SideBySideToken" value="16.0.5056.1001">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=TPHAB96vRaNNzz0suZ0EXbANRXUn0eRLj-wWM9HRbhpFa7J0Hu7QDxMb-zZnqxaH7FOceXeTLzJUZWAtjj-XDc2Hf--oBbqdrfudRW5_3IE1&amp;t=637346930097037378" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+
+var g_correlationId = '5671a39f-f593-f0c7-0f57-a3a84d3c4969';
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaRUMEnabled = false;
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'CMSPUBLISHING#0';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fen", webAbsoluteUrl: "https:\u002f\u002fwww.mohap.gov.ae\u002fen", siteAbsoluteUrl: "https:\u002f\u002fwww.mohap.gov.ae", serverRequestPath: "\u002fen\u002fPages\u002fprofdoctors.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "Home", webTemplate: "39", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "\u002f_catalogs\u002fmasterpage\u002fMOH_Master\u002fimgs\u002flogo-en.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2021-01-21T12:25:57.3272992Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-01-21T12:25:57.3272992Z"), siteClientTag: "19934$$16.0.5095.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:2147680321},pageListId:"{9e099a0b-48b4-41e5-bce0-9367c7fab6cb}",pageItemId:47, pagePersonalizationScope:1, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True',"themedCssFolderUrl" : "/_catalogs/theme/Themed/1876253E","themedImageFileNames" : {"spcommon.png" : "spcommon-B35BB0A9.themedpng?ctag=8","ellipsis.11x11x32.png" : "ellipsis.11x11x32-2F01F47D.themedpng?ctag=8","O365BrandSuite.95x30x32.png" : "O365BrandSuite.95x30x32-C212E2FD.themedpng?ctag=8","socialcommon.png" : "socialcommon-6F3394A9.themedpng?ctag=8","spnav.png" : "spnav-230C537D.themedpng?ctag=8"}, isSiteAdmin: false};var L_Menu_BaseUrl="/en";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="null";
+document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69472768,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
+{
+    if(typeof(window.SP) == "undefined") window.SP = {};
+    if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
+
+    var ysObj = window.SP.YammerSwitch;
+    ysObj.IsEnabled = false;
+    ysObj.TargetYammerHostName = "www.yammer.com";
+} )(); var _spWebPartComponents = new Object();//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=Nu78ogz8y-vOJZ8LNr-81c7RsUPz8rRkwi5c_y0KTwiuhZ6AjS_FkO9Sc6rwCmr8Dm8HAD4M23SRNw3i5R6qfzznqtD4h5xP8JFOQHiMk93wKNFFSs9tZvL9OZimROwB_voPi7f8L4LCxRXuZHNnadgODwV44rYi3yhcDKhRoLc1&amp;t=2f988a6" type="text/javascript"></script>
+<script src="/_layouts/15/16.0.5056.1001/blank.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();function WebForm_OnSubmit() {
+UpdateFormDigest('\u002fen', 1440000);if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;};
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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">
+</div>
+
+            <!-- ===== STARTER: SharePoint Reqs this for adding columns ===================================================== -->
+            <script type="text/javascript"> var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } }; </script>
+
+            <!-- ===== STARTER: Web Part Manager  ============================================================================================= -->
+            
+
+            <!-- ===== STARTER: ScriptManager ===================================================== -->
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm', ['tctl00$sendPageWP2$upSendPage','','tctl00$ctl54$g_358d628f_a927_4218_9168_f21c190735a7$ctl00$updatePnlProfessionalDoctors','','tctl00$HomeNewsLetterSubscription1$ctl00$UPHomeNewsLetter',''], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+            <!-- ===== STARTER: Ribbon Code Starts Here ===================================================== -->
+            <div>
+	
+	<div id="s4-ribbonrow" style="visibility: hidden; display: none; height: 0px;" class="rs_skip rs_preserve"></div>
+
+</div>
+
+
+            <!-- ===== STARTER: Ribbon Code Ends Here  ======================================================================================== -->
+
+            <!-- ===== STARTER: Authentication / Login link hidden for everyone by anonymous users  =========================================== -->
+            <span>
+<a id="ctl00_ctl57_ExplicitLogin" class="ms-signInLink" href="https://www.mohap.gov.ae/en/_layouts/15/Authenticate.aspx?Source=%2Fen%2FPages%2Fprofdoctors%2Easpx" style="display:inline-block;">Sign In</a>
+</span>
+
+            <!-- ===== STARTER: Main Scrolling Body Starts Here =============================================================================== -->
+            <div id="s4-workspace" class="s4-nosetwidth" style="height: 576px;">
+
+                <div id="loader" class="loader" style="display: none;">
+                    <div id="floatingBarsG">
+                        <div class="blockG" id="rotateG_01"></div>
+                        <div class="blockG" id="rotateG_02"></div>
+                        <div class="blockG" id="rotateG_03"></div>
+                        <div class="blockG" id="rotateG_04"></div>
+                        <div class="blockG" id="rotateG_05"></div>
+                        <div class="blockG" id="rotateG_06"></div>
+                        <div class="blockG" id="rotateG_07"></div>
+                        <div class="blockG" id="rotateG_08"></div>
+                    </div>
+                </div>
+
+                <!-- Modal --> <div class="modal fade" id="myModalGoogleTranslate" role="dialog"> <div class="modal-dialog"> <!-- Modal content--> <div class="modal-content"> <div class="modal-header"> <button type="button" class="close" data-dismiss="modal">×</button> <h4 class="modal-title">More Langaues</h4> </div> <div class="modal-body"> <div id="googleTranslateContainer"><div>The Ministry is not responsible for the translation output by google</div><div id="google_translate_element"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage"><select class="goog-te-combo" aria-label="Language Translate Widget"><option value="">Select Language</option><option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="am">Amharic</option><option value="ar">Arabic</option><option value="hy">Armenian</option><option value="az">Azerbaijani</option><option value="eu">Basque</option><option value="be">Belarusian</option><option value="bn">Bengali</option><option value="bs">Bosnian</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="ceb">Cebuano</option><option value="ny">Chichewa</option><option value="zh-CN">Chinese (Simplified)</option><option value="zh-TW">Chinese (Traditional)</option><option value="co">Corsican</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="nl">Dutch</option><option value="eo">Esperanto</option><option value="et">Estonian</option><option value="tl">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="fy">Frisian</option><option value="gl">Galician</option><option value="ka">Georgian</option><option value="de">German</option><option value="el">Greek</option><option value="gu">Gujarati</option><option value="ht">Haitian Creole</option><option value="ha">Hausa</option><option value="haw">Hawaiian</option><option value="iw">Hebrew</option><option value="hi">Hindi</option><option value="hmn">Hmong</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="ig">Igbo</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="jw">Javanese</option><option value="kn">Kannada</option><option value="kk">Kazakh</option><option value="km">Khmer</option><option value="rw">Kinyarwanda</option><option value="ko">Korean</option><option value="ku">Kurdish (Kurmanji)</option><option value="ky">Kyrgyz</option><option value="lo">Lao</option><option value="la">Latin</option><option value="lv">Latvian</option><option value="lt">Lithuanian</option><option value="lb">Luxembourgish</option><option value="mk">Macedonian</option><option value="mg">Malagasy</option><option value="ms">Malay</option><option value="ml">Malayalam</option><option value="mt">Maltese</option><option value="mi">Maori</option><option value="mr">Marathi</option><option value="mn">Mongolian</option><option value="my">Myanmar (Burmese)</option><option value="ne">Nepali</option><option value="no">Norwegian</option><option value="or">Odia (Oriya)</option><option value="ps">Pashto</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="pa">Punjabi</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sm">Samoan</option><option value="gd">Scots Gaelic</option><option value="sr">Serbian</option><option value="st">Sesotho</option><option value="sn">Shona</option><option value="sd">Sindhi</option><option value="si">Sinhala</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="so">Somali</option><option value="es">Spanish</option><option value="su">Sundanese</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="tg">Tajik</option><option value="ta">Tamil</option><option value="tt">Tatar</option><option value="te">Telugu</option><option value="th">Thai</option><option value="tr">Turkish</option><option value="tk">Turkmen</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="ug">Uyghur</option><option value="uz">Uzbek</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="xh">Xhosa</option><option value="yi">Yiddish</option><option value="yo">Yoruba</option><option value="zu">Zulu</option></select></div>Powered by <span style="white-space:nowrap"><a class="goog-logo-link" href="https://translate.google.com" target="_blank" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE" data-original-title="" title=""><img src="https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png" width="37px" height="14px" style="padding-right: 3px" alt="Google Translate">Translate</a></span></div></div><script type="text/javascript">function googleTranslateElementInit() { new google.translate.TranslateElement({pageLanguage: "en"}, "google_translate_element");}</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div> </div> <div class="modal-footer"> <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> </div> </div> </div> </div><div class="modal fade" id="Sharemail" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div id="ctl00_sendPageWP2" __webpartid="{40791CF6-6811-4B1E-B6C6-5ABC35DA1E14}">
+	<div id="ctl00_sendPageWP2_uPrgSendPage" style="display:none;" role="status" aria-hidden="true" class="rs_skip rs_preserve">
+		
+        <div class="Popuploading">
+            <img class="loadingimg" src="/_catalogs/masterpage/MOH_Master/imgs/load.gif" style="top: 154px;" alt="Loading">
+        </div>
+    
+	</div>
+
+<div id="ctl00_sendPageWP2_upSendPage">
+		
+        <div class="modal-dialog">
+            <div id="model1" class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                    <h5 class="modal-title" id="myModalLabel">
+                        Share Page</h5>
+                </div>
+                <div class="modal-body" role="form" id="sendPage">
+                    <div class="form-group row">
+                        <div class="col-md-6 col-sm-12 col-xs-12">
+                            <span id="ctl00_sendPageWP2__lblReceieverName" class="bold-lable"><label id="Labelctl00_sendPageWP2__txtReceieverName" for="ctl00_sendPageWP2__txtReceieverName">Receiver's Name</label></span><span style="color: red"> *</span>
+                            <input name="ctl00$sendPageWP2$_txtReceieverName" type="text" id="ctl00_sendPageWP2__txtReceieverName" class="validate[required] form-control" placeholder=" example: Ahmed Khaled" value="" aria-describedby="Labelctl00_sendPageWP2__txtReceieverName">
+                            <span id="ctl00_sendPageWP2_reqReceieverName" style="color:Red;display:none;" class="rs_skip rs_preserve">Receiver's Name is Required.</span>
+                        </div>
+                        <div class="col-md-6 col-sm-12 col-xs-12">
+                            <span id="ctl00_sendPageWP2__lblReceiverEmail" class="bold-lable"><label for="ctl00_sendPageWP2__txtReceiverEmail">Receiver's Email</label></span><span style="color: red"> *</span>
+                            <input name="ctl00$sendPageWP2$_txtReceiverEmail" type="text" id="ctl00_sendPageWP2__txtReceiverEmail" class="form-control" value="" placeholder=" example: Ahmed@example.com">
+                            <span id="ctl00_sendPageWP2_reqReceiverEmail" style="color:Red;display:none;" class="rs_skip rs_preserve">Receiver's Email Address is Required.</span>
+                                                    <span id="ctl00_sendPageWP2_regexvalReceiverEmail" style="color:Red;display:none;" class="rs_skip rs_preserve">Please enter a valid email address. Ex: abc@xyz.com</span>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-md-6 col-sm-12 col-xs-12">
+                            <span id="ctl00_sendPageWP2__lblSenderName" class="bold-lable"><label for="ctl00_sendPageWP2__txtSenderName">Sender's Name</label></span><span style="color: red"> *</span>
+                            <input name="ctl00$sendPageWP2$_txtSenderName" type="text" id="ctl00_sendPageWP2__txtSenderName" class="form-control" value="" placeholder=" example: Ahmed Khaled">
+                            <span id="ctl00_sendPageWP2_reqSenderName" style="color:Red;display:none;" class="rs_skip rs_preserve">Sender's Name is Required.</span>
+                        </div>
+                        <div class="col-md-6 col-sm-12 col-xs-12">
+                            <span id="ctl00_sendPageWP2__lblSenderEmail" class="bold-lable"><label for="ctl00_sendPageWP2__txtSenderEmail">Sender's Email</label></span><span style="color: red"> *</span>
+                            <input name="ctl00$sendPageWP2$_txtSenderEmail" type="text" id="ctl00_sendPageWP2__txtSenderEmail" class="form-control" value="" placeholder=" example: Ahmed@example.com">
+                            <span id="ctl00_sendPageWP2_reqSenderEmail" style="color:Red;display:none;" class="rs_skip rs_preserve">Sender's Email is Required.</span>
+                            <span id="ctl00_sendPageWP2_regexvalSenderEmail" style="color:Red;display:none;" class="rs_skip rs_preserve">Please enter a valid email address. Ex: abc@xyz.com</span>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-md-12 col-sm-12 col-xs-12">
+                            <span id="ctl00_sendPageWP2__lblUrl" class="bold-lable">Link to Share</span>
+                            <span id="ctl00_sendPageWP2__lblUrlCookied" class="aspNetDisabled">https://www.mohap.gov.ae/en/Pages/profdoctors.aspx</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    <div class="form-group row">
+                        <div class="col-md-12 col-xs-12 col-sm-12">
+                            <input type="submit" name="ctl00$sendPageWP2$butnSharePage" value="Send Email" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$sendPageWP2$butnSharePage&quot;, &quot;&quot;, true, &quot;SharePageGroup&quot;, &quot;&quot;, false, false))" id="ctl00_sendPageWP2_butnSharePage" class="btn btn-warning">
+                            <span id="ctl00_sendPageWP2__lblResult" style="color:Green;"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+	</div>
+
+</div>
+                </div>
+              
+              
+                <div id="s4-bodyContainer">
+
+                    <!-- side fixed bar -->
+                    <div id="ctl00_g_67d42fff_ae7f_4569_af00_bd6f850c3e42" __markuptype="vsattributemarkup" __webpartid="{67d42fff-ae7f-4569-af00-bd6f850c3e42}" webpart="true" xmlns:__designer="SPD" isclosed="false">
+	
+
+ 
+<div class="sidebar">
+    <ul>
+        
+                <li>
+                    <a href="https://www.facebook.com/mohapuae/" data-trigger="hover" target="_blank" data-toggle="popover" data-placement="left" aria-label="Facebook" data-content="Facebook - This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE">
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://www.youtube.com/user/TheMOHUAE" data-trigger="hover" target="_blank" data-toggle="popover" data-placement="left" aria-label="Youtube" data-content="Youtube - This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE">
+                        <i class="fa fa-youtube" aria-hidden="true"></i>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://twitter.com/mohapuae" data-trigger="hover" target="_blank" data-toggle="popover" data-placement="left" aria-label="Twitter" data-content="Twitter - This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE">
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://www.linkedin.com/in/mohap-uae-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D9%88%D9%88%D9%82%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AC%D8%AA%D9%85%D8%B9-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9-416613147/" data-trigger="hover" target="_blank" data-toggle="popover" data-placement="left" aria-label="Linkedin" data-content="Linkedin - This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE">
+                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://www.instagram.com/mohapuae/" data-trigger="hover" target="_blank" data-toggle="popover" data-placement="left" aria-label="Instagram" data-content="Instagram - This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE">
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://www.mohap.gov.ae/en/Pages/Userscaredepartment.aspx" data-trigger="hover" target="_blank" data-toggle="tooltip" data-placement="left" title="" aria-label="Customer Care" data-original-title="Customer Care">
+                        <i class="fa fa-smile-o" aria-hidden="true"></i>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://www.mohap.gov.ae/en/services/Pages/DownloadApps.aspx" data-trigger="hover" target="_blank" data-toggle="tooltip" data-placement="left" title="" aria-label="Mobile Services" data-original-title="Mobile Services">
+                        <i class="fa fa-mobile" aria-hidden="true"></i>
+                    </a>
+                </li>
+            
+    <li><a aria-label="Personalize" id="sidebarAccessibility" href="#" data-trigger="hover" data-toggle="tooltip" data-placement="left" title="" data-original-title="Personalize"><i class="fa fa-cog" aria-hidden="true"></i></a></li></ul>
+</div> 
+</div>
+                    <!--Header-->
+
+                    <div class="container-fluid">
+                        
+                        <!-- header -->
+                        <div class="row head-middle">
+                        <div class="col-md-4 col-sm-12 col-xs-12">
+                            <div class="logo">
+                                <a href="/en/"><img id="ctl00_x63829de2201a4365a3904788f682d0a3" src="/_catalogs/masterpage/MOH_Master/imgs/logo-en.png" alt="Ministry of Health &amp; Prevention - United Arab of Emirates"></a>
+                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-2" aria-expanded="false" aria-label="Menu">
+                                    <i class="fa fa-bars" aria-hidden="true"></i>
+                                </button>
+                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-3" aria-expanded="false" aria-label="Search">
+                                    <i class="fa fa-search" aria-hidden="true"></i>
+                                </button>
+                            </div>
+                            </div>
+                         <div class="col-md-8 col-sm-12 col-xs-12"><div class="top-navbar rs_preserve">
+                                <ul><li>
+                                        <div id="xp1" class="rs_skip rs_preserve"></div>
+                                    </li>
+	                                <li class="popoverParent" title="Register/Login"><a href="https://smartforms.moh.gov.ae:444/loginsso.aspx?returnurl=https://www.mohap.gov.ae/en/Pages/profdoctors.aspx&amp;lang=en" target="_blank" data-toggle="popover" data-trigger="hover" data-placement="top" data-original-title="" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE"><i class="fa fa-user-circle-o fa-lg"><span style="font-family: Helvetica, sans-serifsans-serif, Tahoma; font-size:15px;"> Register/Login</span></i></a></li>
+                                    <li title="Switch to Arabic">
+									<div id="ctl00_MOH_LangWebpart" __webpartid="{74C09435-C559-4647-A4B9-39DF2F472ED6}">
+	<a href="https://www.mohap.gov.ae/ar/Pages/profdoctors.aspx" id="ctl00_MOH_LangWebpart_changelang">
+    عربي</a>
+</div></li>
+                                    <li>
+	                                	<a href="javascript:TReadText();" title="Listen to this page" aria-label="Listen to this page"><i class="fa fa-volume-up fa-lg" title="Listen to this page"></i></a>
+                                    	<!--a href="https://app.eu.readspeaker.com/cgi-bin/rsent?customerid=7426&lang=en_uk&readid=masterContent&url=" style="display:none;"></a-->
+                             <a href="https://app-as.readspeaker.com/cgi-bin/rsent?customerid=7426&amp;lang=en_uk&amp;readid=masterContent&amp;url=" style="display:none;" class="rs_skip rs_preserve" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE" data-original-title="" title=""></a>    
+                             
+  </li>
+                                    
+                                    
+                                    
+                                    <li><a href="/en/Pages/SiteMap.aspx" title="Sitemap" aria-label="Sitemap"><i class="fa fa-sitemap fa-lg" title="Sitemap"></i></a></li><li><a href="#" onclick="StartWebSiteIntro()" title="Site Tour" aria-label="Site Tour"><i class="fa fa-info-circle fa-lg" title="Site Tour"></i></a></li>
+                                    <li><a href="/en/EParticipation/Pages/ContactUs.aspx" title="Contact Us" aria-label="Contact Us"><i class="fa fa-phone fa-lg" title="Contact Us"></i></a></li>
+                                    <li><a href="/en/Pages/help.aspx" title="Help" aria-label="Help"><i class="fa fa-question-circle fa-lg" title="Help"></i></a></li>
+                                    <!--li id="weather-item" class="dropdown">
+										<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="Weather">
+											<i class="fa fa-cloud fa-lg"></i>
+										</a>
+										<ul class="dropdown-menu weather-widget">
+										  <li data-city="Dubai" data-location="25.2048,55.2708"></li>
+										    <li data-city="Abu Dhabi" data-location="24.4539,54.3773"></li>
+											<li data-city="Sharjah" data-location="25.3463,55.4209"></li>
+											<li data-city="Ajman" data-location="25.4052,55.5136"></li>
+											<li data-city="Fujairah" data-location="25.4111,56.2482"></li>
+											<li data-city="Umm al-Quwain" data-location="25.5205,55.7134"></li>
+											<li data-city="Ras al-Khaimah" data-location="25.6741,55.9804"></li>													
+										</ul>
+									</li-->
+									<li class="dropdown">
+                                        <a href="#" class="dropdown-toggle rs_preserve" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" title="Accessibility" aria-label="Accessibility"><i class="fa fa-cog fa-lg" title="Personalize"></i><span class="caret"></span></a>
+                                        <ul class="dropdown-menu sitt SkipAllChildrenFontIncrease">
+                                            <li class="text-center">
+                                                <i class="fa fa-font menu-icon" aria-hidden="true" title="Font Size"></i>
+                                                <div class="btn-group">
+                                                    <button id="buttonPlus" type="button" class="btn btn-primary" title="Font Increase" aria-label="Font Increase"><i class="fa fa-plus" aria-hidden="true"></i></button>
+                                                    <button id="buttonDefault" type="button" class="btn btn-primary" title="Font Reset" aria-label="Font Reset"><i class="fa fa-refresh" aria-hidden="true"></i></button>
+                                                    <button id="buttonMinus" type="button" class="btn btn-primary" title="Font Decrease" aria-label="Font Decrease"><i class="fa fa-minus" aria-hidden="true"></i></button>
+                                                </div>
+                                            </li>
+                                            <li class="text-center">
+                                                <i id="colorblind" class="fa fa-low-vision menu-icon" aria-hidden="true" title="Color Blind" tabindex="0"></i>
+                                            </li>
+                                            <li class="text-center">
+                                                <i class="fa fa-paint-brush menu-icon" aria-hidden="true" title="Select Color Theme"></i>
+                                                <div class="btn-group">
+                                                    <button id="black" type="button" class="btn btn-primary c4" aria-label="Black"></button>
+                                                    <button id="green" type="button" class="btn btn-primary c1" aria-label="Green"></button>
+                                                    <button id="maroon" type="button" class="btn btn-primary c2" aria-label="Maroon"></button>
+                                                    <button id="yellow" type="button" class="btn btn-primary c3" aria-label="Yellow"></button>
+                                                </div>
+                                            </li>
+                                            <li class="text-center">
+                                            	<div class="btn-group" style="width: 100%;">
+	                                                <a data-toggle="modal" data-target="#Sharemail" tabindex="0"><i class="fa fa-envelope-o fa-lg" title="Share Page"></i></a>
+				                                    <a id="btnPrint" tabindex="0"><i class="fa fa-print fa-lg" title="Print"></i></a>
+				                                </div>
+				                            </li>
+                                        <li id="googleTranslateSec" class="text-center"><div class="btn-group" style="width: 100%;"><a data-toggle="modal" data-target="#myModalGoogleTranslate" tabindex="0"><i class="fa fa-language-o fa-lg" title="More Langaues"></i>More Langaues</a></div></li></ul>
+                                    </li>
+                                    <li><a href="/en/SearchCenter/Pages/advancedsearch.aspx" title="Advanced Search" style="margin-bottom: -10px;" aria-label="Advanced Search"><div class="advancedSearchIcon" title="Advanced Search"></div></a></li>
+                                    <li><a href="javascript:" title="Voice Search" id="_btnIconVoiceSearch" onclick="startRecording();" aria-label="Voice Search"><i class="fa fa-microphone" aria-hidden="true"></i></a></li><li title="Search here">
+                                    <div class="search collapse navbar-collapse" id="bs-example-navbar-collapse-3" data-toggle="popover" data-trigger="focus" data-content="If you find that your search has returned too many results you might want to consider refining your search. You can refine your search by adding other keywords to your search or by using the handy keyword tool that can filter your results to make them more accurately reflect the information you are looking for. The filters can be found to the top of your results. " title="" data-placement="bottom" data-original-title="Refine search results">
+										<div id="ctl00_search" __webpartid="{C538FC58-0292-4BD3-A8FD-CF45D6406AB4}">
+	
+
+<style type="text/css">
+    .ui-helper-hidden-accessible {
+        display: none !important;
+    }
+</style>
+<div id="SearchBox">
+    <div class="input-group"><label style="font-size:0px;" id="_LabeltxtSearchBox" for="_txtSearchBox">Search</label>
+        <input name="ctl00$search$_txtSearchBox" type="text" id="_txtSearchBox" class="form-control ui-autocomplete-input" aria-label="..." autocomplete="off" placeholder="Search..." value="" aria-describedby="_LabeltxtSearchBox">
+        <div class="input-group-btn">
+            <button type="reset" class="btn btn-default" id="_btnIconSearch" aria-label="Search">
+                <i class="fa fa-search" aria-hidden="true"></i>
+            </button>
+
+
+        </div>
+        <!-- /btn-group -->
+    </div>
+    <!-- /input-group -->
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        var theLanguage = $('html').attr('lang');
+        var IsArabic = (theLanguage == "ar-AE");
+        $("#btnTop").attr("name", "/" + (IsArabic ? "ar" : "en") + "/SearchCenter/Pages/allsite.aspx");
+
+        function getFields(results) {
+            r = {};
+            for (var i = 0; i < results.length; i++) {
+                if (results[i] != undefined && results[i].Key != undefined) {
+                    r[results[i].Key] = results[i].Value;
+                }
+            }
+            return r;
+        };
+        var restTerm = "";
+
+        var requestURl = "";
+        var t = "";
+
+        var autocomplete = $("#_txtSearchBox").autocomplete({
+            minLength: 1,
+            source: function (request, response) {
+                $.ajax({
+                    beforeSend: function (request) {
+                        restTerm = $("#_txtSearchBox").val();
+                        request.setRequestHeader("Accept", "application/json;odata=verbose;charset=utf-8");
+                    },
+                    url: "/_api/search/query?sourceid='526dc86b-cf4b-441e-b10d-6d596dfb1461'&querytext='(" + (IsArabic ? "MOHArTitleSCOWSTEXTMP" : "MOHEnTitleSCOWSTEXTMP") + ":\"" + request.term + "*\" OR " + (IsArabic ? "MOHArDoctorNameSCOWSTEXT" : "MOHEnDoctorNameSCOWSTEXT") + ":\"" + request.term + "*\")'&QueryTemplatePropertiesUrl='spfile://webroot/queryparametertemplate.xml'&selectproperties='" + (IsArabic ? "MOHArTitleSCOWSTEXTMP,MOHArDoctorNameSCOWSTEXT" : "MOHEnTitleSCOWSTEXTMP,MOHEnDoctorNameSCOWSTEXT") + "'",
+                    dataType: "json",
+                    headers: { "ACCEPT": "application/json;odata=verbose" },
+                    success: function (data) {
+                        response($.map(data.d.query.PrimaryQueryResult.RelevantResults.Table.Rows.results, function (item) {
+                            return {
+                                fields: getFields(item.Cells.results)
+                            }
+                        }));
+                    },
+                    error: function (data) {
+                        console.log(data);
+                    }
+                });
+            },
+            // Run this when the item is in focused (not selected)
+            focus: function (event, ui) {
+
+            },
+            // Run this when the item is selected
+            select: function (event, ui) {
+                if (IsArabic) {
+                    content = ui.item.fields.MOHArDoctorNameSCOWSTEXT && ui.item.fields.MOHArDoctorNameSCOWSTEXT != "" ? ui.item.fields.MOHArDoctorNameSCOWSTEXT : ui.item.fields.MOHArTitleSCOWSTEXTMP;
+                }
+                else {
+                    content = ui.item.fields.MOHEnDoctorNameSCOWSTEXT && ui.item.fields.MOHEnDoctorNameSCOWSTEXT != "" ? ui.item.fields.MOHEnDoctorNameSCOWSTEXT : ui.item.fields.MOHEnTitleSCOWSTEXTMP;
+                }
+                $("#_txtSearchBox").val(content);
+                searchAction();
+            },
+            options: {
+                messages: {
+                    noResults: '',
+                    results: function () { }
+                }
+            },
+            appendTo: $('#SearchBoxMenu')
+        }).data("uiAutocomplete")._renderItem = function (ul, item) {
+            if (t.indexOf($("#_txtSearchBox").val()) > -1) {
+            } else {
+                t = "there are no resultss";
+            }
+            var searchText = $("#_txtSearchBox").val()
+
+
+            if (IsArabic) {
+                searchText = searchText.split("");
+                searchText = searchText.join("[\"ـ،؛ؘ\u0652\u0650\u064C\u064E\u064B\u064F\u064D\u0651]*");
+                searchText = searchText.replace(new RegExp("[ةه]", "ig"), "[ةه]").replace(new RegExp("[يى]", "ig"), "[يى]").replace(new RegExp("[آاإأ]", "ig"), "[اإأآ]");
+                searchText = "(" + searchText + ")";
+                t = (item.fields.MOHArDoctorNameSCOWSTEXT && item.fields.MOHArDoctorNameSCOWSTEXT!=""?item.fields.MOHArDoctorNameSCOWSTEXT:item.fields.MOHArTitleSCOWSTEXTMP).replace(new RegExp(searchText, "ig"), "<span class='SearchColorSelector'>$1</span>");
+            }
+            else {
+                //searchText = searchText.split
+                //searchText = searchText.replace(new RegExp("[ةه]", "ig"), "[ةه]").replace(new RegExp("[يى]", "ig"), "[يى]").replace(new RegExp("[اأ]", "ig"), "[اأ]");
+                searchText = "(" + searchText + ")";
+                t = (item.fields.MOHEnDoctorNameSCOWSTEXT && item.fields.MOHEnDoctorNameSCOWSTEXT != "" ? item.fields.MOHEnDoctorNameSCOWSTEXT : item.fields.MOHEnTitleSCOWSTEXTMP).replace(new RegExp(searchText, "ig"), "<span class='SearchColorSelector'>$1</span>");
+            }
+            var searchTxtWidth = $("#SearchBox").width() - 150;
+            $('#SearchBoxMenu').width(searchTxtWidth);
+            return $("<li>").append('<a>' + t + '</a>').appendTo(ul);
+        };
+
+
+        var liWidth = $("#topics-menu li").width();
+        if (theLanguage == "ar-AE") {
+            document.getElementById("_txtSearchBox").placeholder = "البحث...";
+            $("#_txtSearchBox").attr("placeholder", "البحث...");
+        } else {
+            document.getElementById("_txtSearchBox").placeholder = "Search...";
+            $("#_txtSearchBox").attr("placeholder", "Search...");
+        }
+
+        $("#topics-menu li a").hover(function () {
+            if (theLanguage == "ar-AE") {
+                document.getElementById("_txtSearchBox").placeholder = "البحث في " + $(this).html();
+            } else {
+                document.getElementById("_txtSearchBox").placeholder = "Search in " + $(this).html();
+            }
+            $("#btnTop").text($(this).html());
+            $("#btnTop").attr("name", $(this).attr("name"));
+        });
+
+        // Search Actions Controls
+        $('#_txtSearchBox').bind("enterKey", function (e) {
+            searchAction();
+        });
+        $("#_btnIconSearch").click(function () {
+            searchAction();
+        });
+        $('#_txtSearchBox').keyup(function (e) {
+            if (e.keyCode == 13) {
+                $(this).trigger("enterKey");
+            }
+        });
+        function searchAction() {
+            if ($('#_txtSearchBox').val().trim() == "") {
+                return false;
+            } else {
+                if ($('html').attr('lang') == "ar-AE")
+                    window.location.href = "/ar/SearchCenter/Pages/allsite.aspx?k=" + $('#_txtSearchBox').val().trim() + "*";
+                else
+                    window.location.href = "/en/SearchCenter/Pages/allsite.aspx?k=" + $('#_txtSearchBox').val().trim() + "*";
+            }
+        }
+    });
+</script>
+<script type="text/javascript">
+    var oWeb;
+    var day;
+    var month;
+    var year;
+    SP.SOD.executeFunc('sp.js', 'SP.ClientContext', getwebdetails);
+    function getwebdetails() {
+        var clientContext = SP.ClientContext.get_current(); // equivalent to SPContext.Current
+        oWeb = clientContext.get_web(); //Gets the current Web Object
+        //clientContext.load(oWeb); - Load all properties for a web
+        clientContext.load(oWeb, 'Title', 'Created', 'LastItemModifiedDate');
+        clientContext.executeQueryAsync(onSucceeded, onFailed);
+    }
+    function onSucceeded() {
+        var strmsg = "";
+        strmsg = oWeb.get_lastItemModifiedDate();
+        convertDate(strmsg);
+        document.getElementById("datefooter").innerHTML = day + " " + month + " " + year + " " + strmsg.toLocaleTimeString();
+    }
+    function onFailed(sender, args) {
+        try {
+            console.log('Error: ' + args.get_message());
+        }
+        catch (err) {
+        }
+    }
+    function convertDate(modifiedDate) {
+        var theLanguage = $('html').attr('lang');
+        day = new Date(modifiedDate).toLocaleDateString("en-US", { day: 'numeric' });
+        month = new Date(modifiedDate).toLocaleDateString(theLanguage, { month: 'long' });
+        year = new Date(modifiedDate).toLocaleDateString("en-US", { year: 'numeric' });
+    }
+
+</script>
+
+
+</div>
+									</div>
+									</li>
+                                </ul>
+                        </div></div>
+                           
+                           
+
+                        </div>
+                        <div id="ctl00_mainmenu" __webpartid="{4C72A793-A15E-446A-A239-66947E68773E}">
+	
+
+
+
+<div class="main-menu row">
+    <div class="container rs_preserve">
+        <div class=" main-menu">
+            <nav class="navbar">
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
+                    <ul class="nav navbar-nav"><li><a href="/en/Pages/default.aspx"> <i class="fa fa-home"></i>Home</a></li><li class="dropdown"><a data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle" href="/en/#">About us<span class="caret"></span> </a><ul class="dropdown-menu"><li><a href="/en/aboutus/Pages/Strategy.aspx">MOHAP Strategy</a></li><li><a href="/en/aboutus/Pages/OrganizationStructure.aspx">Organization Structure</a></li><li><a href="/en/aboutus/Pages/MinisterSpeech.aspx">Minister Speech</a></li><li><a href="/en/aboutus/Pages/MinisterGate.aspx">Minister Gate</a></li><li><a href="/en/aboutus/Pages/ProjectandInitiatives.aspx">Projects and Initiatives</a></li><li><a href="/en/aboutus/Pages/HealthCareFacilities.aspx">Health Care Facilities</a></li><li><a href="/en/aboutus/Pages/PublicHealthPolicies.aspx">Health Legislation</a></li><li><a href="/en/aboutus/Pages/HealthPolicies.aspx">Health Policies</a></li><li><a href="/en/aboutus/Pages/Awards.aspx">Awards</a></li><li><a href="/en/aboutus/Pages/CSC/Home.aspx">Customer Happiness Centers</a></li><li><a href="/en/aboutus/Pages/YouthCouncil/CouncilMembers.aspx">Youth Council</a></li><li><a href="/en/aboutus/Pages/StrategicPartnership.aspx">Strategic Partnership</a></li><li><a href="/en/aboutus/Pages/InnovationHealthStrategy.aspx">Innovation Health Strategy</a></li><li><a href="/en/aboutus/Pages/HKMS.aspx">Health Knowledge Management Strategy</a></li></ul></li><li class="dropdown"><a data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle" href="/en/#">Services<span class="caret"></span> </a><ul class="dropdown-menu"><li><a href="/en/services/Pages/default.aspx">Services</a></li><li><a href="/en/services/Pages/e-Services.aspx?IsEService=true">E-Services</a></li><li><a href="/en/services/Pages/VisitingDoctors.aspx">Visiting Doctors</a></li><li><a href="/en/services/Pages/DownloadApps.aspx">Mobile Services</a></li><li><a href="/en/aboutus/Pages/MedicalExaminationCenters.aspx">Medical Examination for Residency</a></li><li><a href="/en/services/Pages/eServiceHelp.aspx">E-Services Help</a></li><li><a href="/en/Pages/Gamification.aspx">Gamification</a></li><li><a href="/en/services/Pages/PriorityServices.aspx">Electronic channels for priority services 2020</a></li></ul></li><li class="dropdown"><a data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle" href="/en/#">Digital Participation<span class="caret"></span> </a><ul class="dropdown-menu"><li><a href="/en/EParticipation/Pages/DigitalParticipation.aspx">Digital Participation</a></li><li><a href="/en/EParticipation/Pages/DigitalParticipationTopics.aspx">Digital Participation Topics</a></li><li><a href="/en/EParticipation/Pages/DigitalParticipationPolicy.aspx">Digital Participation Policy</a></li><li><a href="/en/EParticipation/Polls/Pages/Polls.aspx">All Polls</a></li><li><a href="/en/EParticipation/Pages/Survey.aspx">Surveys</a></li></ul></li><li class="dropdown"><a data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle" href="/en/#">Media Center<span class="caret"></span> </a><ul class="dropdown-menu"><li><a href="/en/MediaCenter/Pages/news.aspx">News</a></li><li><a href="/en/MediaCenter/Pages/events.aspx">Events</a></li><li><a href="/en/AwarenessCenter/Pages/posts.aspx">Blogs</a></li><li><a href="/en/MediaCenter/Pages/albums.aspx">Images Gallery</a></li><li><a href="/en//MediaCenter/Pages/videosalbums.aspx">Videos Gallery</a></li><li><a href="/en/MediaCenter/Pages/mediakit.aspx">Media Kit</a></li><li><a href="/en/mediacenter/Pages/SocialMediaUsagePolicy.aspx">Social Media Usage Policy</a></li></ul></li><li class="dropdown"><a data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle" href="/en/#">Open Data<span class="caret"></span> </a><ul class="dropdown-menu"><li><a href="/en/OpenData/Pages/default.aspx">Open Data</a></li><li><a href="/en/OpenData/Pages/OpenDataPolicy.aspx">Open Data License</a></li><li><a href="/en/openData/Pages/research-bank-uae.aspx">Health Research Bank</a></li><li><a href="https://smartapps.moh.gov.ae/ords/f?p=105:5" target="_blank" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE" data-original-title="" title="">Statistics Dashboard</a></li></ul></li><li class="dropdown"><a data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle" href="/en/#">Awareness Center<span class="caret"></span> </a><ul class="dropdown-menu"><li><a href="/en/AwarenessCenter/Pages/HealthTips.aspx">General Tips</a></li><li><a href="/en/AwarenessCenter/Pages/COVID-19.aspx">Novel Coronavirus (COVID-19)</a></li><li><a href="/en/AwarenessCenter/Pages/COVID19-Information-Center.aspx">COVID-19 Information Center</a></li><li><a href="/en/AwarenessCenter/Pages/Blood-Donation.aspx">Blood Donation</a></li></ul></li><li><a href="/en/Pages/Careers.aspx">Careers</a></li></ul>
+                </div>
+                <!-- /.navbar-collapse -->
+                <!-- /.container-fluid -->
+            </nav>
+        </div>
+    </div>
+</div>
+
+</div>
+                    </div>
+                    <!-- End Header-->
+                    <!--Content-->
+                    <div class="content">
+                        <div class="page-title">
+                            <div class="container rs_preserve" id="welcome">
+                                <h1 id="pageTitle">
+                                    <!-- ===== STARTER: SP Reqs DeltaPlaceHolderPageTitleInTitleArea and PlaceHolderPageTitleInTitleArea for adding Apps in Site Content =================== -->
+                                    <div id="ctl00_breadCrumbCustom" __webpartid="{983bfff9-022b-4b2f-8954-a5c3b57971e0}">
+	
+
+
+<div class="breadcrumb">
+    <span id="ctl00_breadCrumbCustom_ContentMap"><span><a title="Home" class="ms-sitemapdirectional" href="/ar/Pages/default.aspx" aria-label="Home">Home</a></span><span> &gt; </span><span><a class="ms-sitemapdirectional" href="/en/Pages/default.aspx">Home</a></span><span> &gt; </span><span class="ms-sitemapdirectional"></span></span>
+</div>
+
+</div>
+                                    <span id="DeltaPlaceHolderPageTitleInTitleArea">
+                                        
+	Professional Doctors 
+
+                                    </span>
+                                    <div class="ms-displayInlineBlock ms-normalWrap">
+                                        <a href="javascript:;" id="ms-pageDescriptionDiv" style="display: none;" class="rs_skip rs_preserve" aria-label="Page Description" title="
+                                            
+	
+
+                                        ">
+                                            <span id="ms-pageDescriptionImage">&nbsp;</span>
+                                        </a>
+                                        <span class="ms-accessible" id="ms-pageDescription">
+                                            
+	
+
+                                        </span>
+                                        <script type="text/javascript">// <![CDATA[ 
+
+_spBodyOnLoadFunctionNames.push("setupPageDescriptionCallout"); // ]]>
+</script>
+                                    </div>
+                                </h1>
+
+                            </div>
+                        </div>
+
+                        <div>
+                            <!-- ===== STARTER: Status bar / also used for notifications in 365 ======================================= -->
+                            <div id="DeltaPageStatusBar">
+	
+                                <div id="pageStatusBar" class="ms-status-blue" style="display: none;"></div>
+                            
+</div>
+                            <div id="masterContent">
+                                <!-- ===== STARTER: Main Placeholder gets replaced with content of the page ======================================= -->
+                                <script>
+       
+        
+        	 if(document.location.protocol.toLowerCase().indexOf("https:")>-1 && _spPageContextInfo!=IsNullOrUndefined())
+				{
+					_spPageContextInfo.webAbsoluteUrl=_spPageContextInfo.webAbsoluteUrl.replace("http:","https:");
+					_spPageContextInfo.siteAbsoluteUrl=_spPageContextInfo.siteAbsoluteUrl.replace("http:","https:");
+				}
+      
+       
+        </script>
+
+                                
+	<div class="welcome blank-wp">
+		
+				<div class="container rs_preserve">
+			<div class="row">
+			
+					
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+					<div class="contentblock">
+						<div class="ms-webpart-zone ms-fullWidth">
+	<div id="MSOZoneCell_WebPartctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+		<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+			<div webpartid="358d628f-a927-4218-9168-f21c190735a7" haspers="false" id="WebPartctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7" width="100%" class="ms-WPBody " allowdelete="false" allowexport="false" style=""><div id="ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7">
+				<div id="ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_uPrgComments" style="display: block;" role="status" aria-hidden="false" class="rs_skip rs_preserve">
+					
+        <div class="Popuploading">
+            <img class="loadingimg" src="/_catalogs/masterpage/MOH_Master/imgs/load.gif" style="top: 154px;" alt="Loading">
+        </div>
+    
+				</div>
+<div id="ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_updatePnlProfessionalDoctors">
+					
+        <div class="contenthead">
+            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                
+                <select name="ctl00$ctl54$g_358d628f_a927_4218_9168_f21c190735a7$ctl00$ddlMedicalDistrict" id="ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_ddlMedicalDistrict" class="form-control">
+						<option value="-1" disabled="disabled" selected="selected">Medical District *</option>
+						<option value="1">Dubai</option>
+						<option value="2">Sharjah</option>
+						<option value="3">Abu Dhabi</option>
+						<option value="4">Ras Al Khaima</option>
+						<option value="5">Umm al-Quwain</option>
+						<option value="6">Fujairah</option>
+						<option value="7">Ajman</option>
+
+					</select>
+                <span id="ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvMedicalDistrict" style="color:Red;display:none;" class="rs_skip rs_preserve">Medical District is mandatory</span>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                
+                <select name="ctl00$ctl54$g_358d628f_a927_4218_9168_f21c190735a7$ctl00$ddlSpeciality" id="ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_ddlSpeciality" class="form-control">
+						<option value="-1" disabled="disabled" selected="selected">Speciality *</option>
+						<option value="62">Accident &amp; Emergency - Physician</option>
+						<option value="63">Anaesthesia - Physician</option>
+						<option value="404">Anaesthesia - Physician</option>
+						<option value="514">Anaesthesia - Physician</option>
+						<option value="411">Anatomic and Clinical Pathology - Physic</option>
+						<option value="414">Anatomic and Clinical Pathology - Physic</option>
+						<option value="429">Anatomic Pathology - Physician</option>
+						<option value="437">Anatomic Pathology - Physician</option>
+						<option value="427">Audiological Medicine - Physician</option>
+						<option value="512">Aviation Medicine - Physician</option>
+						<option value="490">Cardiac Anesthesia - Physician</option>
+						<option value="482">Cardiac surgery - Physician</option>
+						<option value="483">Cardiac surgery - Physician</option>
+						<option value="69">Cardio - Surgery - Physician</option>
+						<option value="520">Cardio - thoracic Surgery - Physician</option>
+						<option value="70">Cardio - Thoracic Surgery - Physician</option>
+						<option value="453">Cardiology - Physician</option>
+						<option value="359">Cardiology - Physician</option>
+						<option value="183">Cardiology - Technician</option>
+						<option value="412">Cardio-vascular Surgery - Physician</option>
+						<option value="425">Cardio-vascular Surgery - Physician</option>
+						<option value="71">Chest Diseases - Physician</option>
+						<option value="488">Child and Adolescent Psychiatry - Physic</option>
+						<option value="72">Child health - Physician</option>
+						<option value="416">Clinical Biochemistry - Technician</option>
+						<option value="73">Clinical Chemistry - Physician</option>
+						<option value="519">Clinical Genetics - Physician</option>
+						<option value="438">Clinical Hematology - Physician</option>
+						<option value="74">Clinical Neurophysiology - Physician</option>
+						<option value="362">Clinical Pathology - Physician</option>
+						<option value="415">Clinical Pathology - Physician</option>
+						<option value="374">Clinical Toxicology - Physician</option>
+						<option value="76">Community Medicine - Physician</option>
+						<option value="498">Community Medicine - Physician</option>
+						<option value="78">Conservative Dentistry - Dentist</option>
+						<option value="433">Critical Care Medicine - Physician</option>
+						<option value="481">Critical Care Medicine - Physician</option>
+						<option value="348">Cupping (Hijama) Therapy - Physician</option>
+						<option value="198">Dental  Radiology - Dentist Assistant</option>
+						<option value="61">Dental General Practitioner - Dentist</option>
+						<option value="59">Dental Oral Histopothalogy - Dentist</option>
+						<option value="461">Dental Oral Histopothalogy - Dentist</option>
+						<option value="28">Dental Oral Medicine - Dentist</option>
+						<option value="145">Dental Prosthodontics - Dentist</option>
+						<option value="25">Dental Surgery - Dentist</option>
+						<option value="200">Dentistry - Technician</option>
+						<option value="79">Dermatology - Physician</option>
+						<option value="18">Dermatology - Physician</option>
+						<option value="449">Dermatology - Physician</option>
+						<option value="80">Dermatology &amp; Venereology - Physician</option>
+						<option value="454">Diagnostic Radiology - Physician</option>
+						<option value="458">E.N.T - Physician</option>
+						<option value="84">E.N.T Surgery - Physician</option>
+						<option value="85">Emergency Medicine - Physician</option>
+						<option value="399">Emergency Medicine - Physician</option>
+						<option value="213">Emergency Medicine - Technician</option>
+						<option value="9">Endocrinology - Physician</option>
+						<option value="471">Endocrinology - Physician</option>
+						<option value="29">Endodontics - Dentist</option>
+						<option value="89">Family Medicine - Physician</option>
+						<option value="435">Family Medicine - Physician</option>
+						<option value="10">Gastroenterology - Physician</option>
+						<option value="457">Gastroenterology - Physician</option>
+						<option value="539">Gastrointestinal Surgery - Physician</option>
+						<option value="92">Gen. Medicine - Physician</option>
+						<option value="93">General Practitioner - Physician</option>
+						<option value="115">General Practitioner - Physician</option>
+						<option value="232">General Practitioner - Technician</option>
+						<option value="95">General Surgery - Physician</option>
+						<option value="408">General Surgery - Physician</option>
+						<option value="451">General Surgery / Urology Surgery - Phys</option>
+						<option value="526">Geriatric Medicine - Physician</option>
+						<option value="97">Haematology - Physician</option>
+						<option value="237">Health Care Management - Technician</option>
+						<option value="507">Hematology and Transfusion Medicine - Ph</option>
+						<option value="463">Hepatology - Physician</option>
+						<option value="101">Histopathology - Physician</option>
+						<option value="422">ICU - Physician</option>
+						<option value="105">Immunology - Physician</option>
+						<option value="106">Implantologist - Dentist</option>
+						<option value="107">Infectious Diseases - Physician</option>
+						<option value="401">Infectious Diseases - Physician</option>
+						<option value="535">Intern - Physician</option>
+						<option value="109">Internal Med /Endocrinology - Physician</option>
+						<option value="8">Internal Med/ Nephrology - Physician</option>
+						<option value="4">Internal Medicine - Physician</option>
+						<option value="400">Internal Medicine - Physician</option>
+						<option value="450">Internal Medicine/Interventional Cardiol</option>
+						<option value="5">Internal Medicine/Interventional Cardiol</option>
+						<option value="392">Interventional Cardiology - Physician</option>
+						<option value="474">Interventional Cardiology - Physician</option>
+						<option value="478">Interventional Radiology - Physician</option>
+						<option value="357">IVF / Infertility  - Physician</option>
+						<option value="484">Medical Microbiology - Physician</option>
+						<option value="473">Medical Microbiology - Physician</option>
+						<option value="464">Medical Oncology - Physician</option>
+						<option value="465">Medical Oncology - Physician</option>
+						<option value="117">Microbiology - Physician</option>
+						<option value="472">Molecular Genetics - Technician</option>
+						<option value="489">Molecular Pathology - Physician</option>
+						<option value="118">Neonatology - Physician</option>
+						<option value="432">Neonatology - Physician</option>
+						<option value="445">Nephrology - Physician</option>
+						<option value="428">Nephrology - Physician</option>
+						<option value="17">Neurologist - Physician</option>
+						<option value="120">Neurology - Physician</option>
+						<option value="419">Neurology - Physician</option>
+						<option value="508">Neuroradiology - Physician</option>
+						<option value="121">Neurosurgery - Physician</option>
+						<option value="413">Neurosurgery - Physician</option>
+						<option value="347">Nuclear Medicine - Physician</option>
+						<option value="402">Nuclear Medicine - Physician</option>
+						<option value="122">Obs/Gyn - Physician</option>
+						<option value="409">Obs/Gyn - Physician</option>
+						<option value="506">Obs/Gyn - Physician</option>
+						<option value="393">Obs/Gyn/IVF/Fertility - Physician</option>
+						<option value="523">Obstetrics and Gynecology - Physician</option>
+						<option value="380">Occupational  Medicine - Physician</option>
+						<option value="124">Oncology - Physician</option>
+						<option value="434">Oncology - Physician</option>
+						<option value="125">Ophthalmology - Physician</option>
+						<option value="406">Ophthalmology - Physician</option>
+						<option value="113">Oral &amp; Maxillofacial Surgery - Dentist</option>
+						<option value="485">Oral &amp; Maxillofacial Surgery - Dentist</option>
+						<option value="377">Oral Medicine and Radiology - Dentist</option>
+						<option value="127">Oral Surgery - Dentist</option>
+						<option value="491">Oral Surgery - Dentist</option>
+						<option value="128">Orthodontics - Dentist</option>
+						<option value="448">Orthodontics - Physician</option>
+						<option value="129">Orthopaedic Surgery - Physician</option>
+						<option value="515">Orthopaedic Surgery - Physician</option>
+						<option value="424">Orthopedic Surgery - Physician</option>
+						<option value="83">Otolaryngology - Physician</option>
+						<option value="405">Otolaryngology - Physician</option>
+						<option value="136">Paediatric Dentistry - Dentist</option>
+						<option value="462">Paediatric Dentistry - Dentist</option>
+						<option value="133">Paediatric Surgery - Physician</option>
+						<option value="134">Paediatrics - Physician</option>
+						<option value="407">Paediatrics - Physician</option>
+						<option value="135">Pathology / Histology &amp; Cytology - Physi</option>
+						<option value="460">Peadiatrics Cardiology - Physician</option>
+						<option value="446">Pediatric - Physician</option>
+						<option value="455">Pediatric - Physician</option>
+						<option value="475">Pediatric Cardiology - Physician</option>
+						<option value="532">Pediatric Critical Care - Physician</option>
+						<option value="531">Pediatric Critical Care - Physician</option>
+						<option value="426">Pediatric Emergency Medicine - Physician</option>
+						<option value="517">Pediatric Endocrinology - Physician</option>
+						<option value="534">Pediatric Hematology - Oncology - Physic</option>
+						<option value="503">Pediatric Hepatology - Physician</option>
+						<option value="529">Pediatric Immunology &amp; Allergy - Physici</option>
+						<option value="510">Pediatric Infectious Disease - Physician</option>
+						<option value="431">Pediatric Neurology - Physician</option>
+						<option value="470">Pediatric Surgery - Physician</option>
+						<option value="137">Periodontics - Dentist</option>
+						<option value="487">Periodontics - Physician</option>
+						<option value="140">Physical Medicine / Sport Medicine - Phy</option>
+						<option value="403">Physical Medicine and Rehabilitation - P</option>
+						<option value="154">Physical Medicine and Rehabilitation - P</option>
+						<option value="11">Plastic Surgery - Physician</option>
+						<option value="443">Plastic Surgery - Physician</option>
+						<option value="60">Preventive &amp; Community Dentistry (Public</option>
+						<option value="24">Prosthodontics - Dentist</option>
+						<option value="302">Prosthodontics - Technician</option>
+						<option value="16">Psychiatrist - Physician</option>
+						<option value="459">Psychiatry - Physician</option>
+						<option value="148">Public Health - Physician</option>
+						<option value="305">Public Health - Technician</option>
+						<option value="495">Public Health Medicine - Physician</option>
+						<option value="430">Pulmonary Disease - Physician</option>
+						<option value="477">Pulmonary Disease - Physician</option>
+						<option value="149">Pulmonology - Physician</option>
+						<option value="418">Radiation Oncology - Physician</option>
+						<option value="151">Radiology - Physician</option>
+						<option value="398">Radiology - Physician</option>
+						<option value="310">Radiology - Technician</option>
+						<option value="439">Reproductive Endocrinology &amp; Infertility</option>
+						<option value="499">Reproductive Medicine and Infertility - </option>
+						<option value="153">Respiratory Medicine - Physician</option>
+						<option value="509">Restorative Dentistry - Dentist</option>
+						<option value="397">Restorative dentistry - Dentist</option>
+						<option value="456">Restorative Dentistry - Dentist</option>
+						<option value="155">Rheumatology - Physician</option>
+						<option value="518">Rheumatology - Physician</option>
+						<option value="14">Rheumatology - Physician</option>
+						<option value="467">Sports Medicine - Physician</option>
+						<option value="6">Surgical Oncology - Physician</option>
+						<option value="158">Thoracic Surgeon - Physician</option>
+						<option value="345">Thoracic Surgery - Physician</option>
+						<option value="330">Urology - Physician</option>
+						<option value="160">Urology - Physician</option>
+						<option value="162">Vascular Surgeon - Physician</option>
+
+					</select>
+                <span id="ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvSpeciality" style="color:Red;display:none;" class="rs_skip rs_preserve">Speciality is mandatory</span>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                
+                <select name="ctl00$ctl54$g_358d628f_a927_4218_9168_f21c190735a7$ctl00$ddlMedicalTitle" id="ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_ddlMedicalTitle" class="form-control">
+						<option value="-1">All Medical Titles</option>
+						<option value="156">Dentist-Audiologist</option>
+						<option value="124">Dentist-Consultant</option>
+						<option value="17">Dentist-Consultant (A)</option>
+						<option value="16">Dentist-Consultant (B)</option>
+						<option value="13">Dentist-Dental General Practitioner</option>
+						<option value="11">Dentist-Intern</option>
+						<option value="122">Dentist-Practitioner</option>
+						<option value="110">Dentist-Residence</option>
+						<option value="200">Dentist-Sonographer</option>
+						<option value="99">Dentist-Specialist</option>
+						<option value="15">Dentist-Specialist (A)</option>
+						<option value="14">Dentist-Specialist (B)</option>
+						<option value="12">Dentist-Starting</option>
+						<option value="95">Physician-Consultant</option>
+						<option value="10">Physician-Consultant (A)</option>
+						<option value="9">Physician-Consultant (B)</option>
+						<option value="137">Physician-Doctor Pathology</option>
+						<option value="5">Physician-General Practitioner</option>
+						<option value="160">Physician-Genetics</option>
+						<option value="1">Physician-Intern</option>
+						<option value="199">Physician-Neuropsychology Psychologist</option>
+						<option value="102">Physician-Paediatrician</option>
+						<option value="109">Physician-Residence</option>
+						<option value="98">Physician-Specialist</option>
+						<option value="8">Physician-Specialist (A)</option>
+						<option value="7">Physician-Specialist (B)</option>
+						<option value="2">Physician-Starting</option>
+						<option value="65">Physician-Therapist</option>
+
+					</select>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3">
+                <input type="button" name="ctl00$ctl54$g_358d628f_a927_4218_9168_f21c190735a7$ctl00$btnSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl54$g_358d628f_a927_4218_9168_f21c190735a7$ctl00$btnSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))" id="ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_btnSearch" class="btn btn-warning">
+            </div>
+        </div>
+        <div>
+            <div class="row">
+                
+            </div>
+        </div>
+    
+				</div>
+
+			</div><div class="ms-clear"></div></div>
+		</div>
+	</div>
+</div>
+					</div>
+					</div>
+							
+			</div>
+			<script type="text/javascript">// <![CDATA[ 
+
+
+			if(typeof(MSOLayout_MakeInvisibleIfEmpty) == "function") 
+			
+			
+			{MSOLayout_MakeInvisibleIfEmpty();}// ]]>
+</script>
+		</div>
+	</div>
+<div style="display:none" id="hidZone" class="rs_skip rs_preserve"><menu class="ms-hide rs_skip rs_preserve">
+	<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute('helpLink'), MenuWebPart.getAttribute('helpMode'))" text="Help" type="option" style="display:none" class="rs_skip rs_preserve">
+
+	</ie:menuitem>
+</menu></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--End Content-->
+                    <!--Fotter-->
+    <div id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce" __markuptype="vsattributemarkup" __webpartid="{12e9e620-af74-4465-90c5-9b3148dedfce}" webpart="true" xmlns:__designer="SPD" isclosed="false">
+	
+
+
+
+<style>
+    .btnCommon:hover {
+        background: #be9647 !important;
+    }
+
+    .btnCommon {
+        background: url(/_catalogs/masterpage/MOH_Master/imgs/btn-bg.png) repeat-x center bottom #e0c87c !important;
+        padding: 0 !important;
+        font-size: 11px !important;
+        border: 1px solid #d2b65a !important;
+        color: #333333 !important;
+        height: 21px;
+        line-height: 19px !important;
+        padding: 0 10px;
+        border-radius: 5px;
+        margin: 0 3px;
+    }
+
+    .validationCls {
+        color: Red;
+        font-size: 12px;
+    }
+</style>
+ 
+
+<div id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_absoluteDiv" class="survey-form clsTitleDiv container rs_preserve" style="width: 100% !important;">
+    <span id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_QuestionTextID">Do you find this Content helpful?</span>
+     
+    <input type="button" id="HelpfulYesBtn1" class="btn" value="Yes">
+    <input type="button" id="HelpfulNoBtn" class="btnClear" value="No">
+
+</div>
+
+<div id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_postYourComments" class="postYourComments">
+
+    <div id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_ThankyouMsgDiv" class="clearfix thanksDiv rs_skip rs_preserve" style="display: none;">
+        <label id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_ThankyouMsgDivLbl">Thank You ! we appreciate your feedback. We will get back to you within 3 working days.</label>
+    </div>
+
+    <div id="contactusform">
+        <div id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_CommentDiv" class="clearfix newscommentsbox rs_skip rs_preserve" client="" style="display: none;">
+            <div class="commentheading">
+                <span id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_lblCommentHeading" text="" class="dis-cont">Thank you – Your feedback on our website is highly appreciated, kindly inform us how can we improve our website and serve you better by adding your comments with your contact details below</span>
+            </div>
+
+            <div id="validationSummary" class="validationSummary block rs_skip rs_preserve" style="color: Red; display: none">
+                <label id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_HeadText">Please modify the following:</label>
+                <ul id="AppendUl"></ul>
+            </div>
+
+            <span id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_lblMsg"></span>
+            <div class="row">
+                <div class="col-lg-6 col-sm-6">
+                    <input name="ctl00$g_12e9e620_af74_4465_90c5_9b3148dedfce$txtName" type="text" id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_txtName" class="form-control txtName" placeholder="Name example: Ahmed Khaled" value="" aria-describedby="Name">
+                    <br>
+
+                    <input name="ctl00$g_12e9e620_af74_4465_90c5_9b3148dedfce$txtPhoneNumber" type="text" maxlength="10" id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_txtPhoneNumber" class="form-control txtPhoneNumber" onkeyup="javascript:return validatePhoneNumber($('.txtPhoneNumber').val())" placeholder="Phone example: 00971500000000" value="" aria-describedby="Phone">
+                    <label id="lblPhoneVal" class="validationCls"></label>
+                    <br>
+
+                    <input name="ctl00$g_12e9e620_af74_4465_90c5_9b3148dedfce$txtEmail" type="text" id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_txtEmail" class="form-control emailtxt" onkeyup="javascript:return validateEmail($('.emailtxt').val())" placeholder="Email * example: Ahmed@example.com" value="" aria-describedby="Email *">
+                    <label id="lblemailValMessage" class="validationCls"></label>
+                    <br>
+                     
+                      <div class="labelname">
+                        <div id="g-recaptcha-container"><div><div style="width: 304px; height: 78px;"><div><iframe src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lf8nhMUAAAAAJdikpDSnLSswLyFLsAlUfaDAIrG&amp;co=aHR0cHM6Ly93d3cubW9oYXAuZ292LmFlOjQ0Mw..&amp;hl=en&amp;v=r8jtf1oixV0IGff4hgB4EzDF&amp;size=normal&amp;cb=gm2hv5ydhglt" width="304" height="78" role="presentation" name="a-wori6y52xp71" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></div>
+                        <script src="https://www.google.com/recaptcha/api.js?onload=recaptchaCallback&amp;render=explicit" async="" defer=""></script>
+                        <script>
+
+                            function recaptchaCallback(e) {
+                                var container = document.getElementById('g-recaptcha-container')
+                                container.innerHTML = ''
+                                var recaptcha = document.createElement('div')
+                                grecaptcha.render(recaptcha, {
+                                    'sitekey': '6Lf8nhMUAAAAAJdikpDSnLSswLyFLsAlUfaDAIrG',
+                                    'hl': 'en',
+                                        'callback': function (response) {
+                                            ValidateECaptchaEnquiry();
+                                        }
+                                    })
+                                    container.appendChild(recaptcha)
+                                }
+                        </script>
+
+                        <label id="lblCaptchaValMessage" class="validationCls"></label>
+                    </div>
+                    
+
+                    <div class="SaveCancelDivVisitorComment">
+                        <button type="button" id="VisitorCommentsBtn" class="btn send">Send</button>
+                        <input type="button" id="CancelVisitorCommentsBtn" class="btn btn-default" value="Cancel">
+                    </div>
+                </div>
+                <div class="col-lg-6 col-sm-6">
+
+                    <textarea name="ctl00$g_12e9e620_af74_4465_90c5_9b3148dedfce$txtNotes" rows="2" cols="20" id="ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_txtNotes" class="form-control new-commentbox txtNotes" onkeyup="javascript:return validateComments($('.txtNotes').val())" placeholder="Comments * example: About the topic..."></textarea>
+                    <label id="lblCommentsValMessage" class="validationCls"></label>
+
+                  
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<script type="text/javascript">
+
+    function btnCommentsClick() {
+        $("#lblemailValMessage").text("");
+        $("#lblCaptchaValMessage").text("");
+        $("#lblCommentsValMessage").text("");
+        $("#lblPhoneVal").text("");
+
+        if (validateForm()) {
+            $("#validationSummary").hide();
+            $(".clsTitleDiv").hide();
+            $(".newscommentsbox").hide();
+
+            UpdateComments(listName, pageHelpfullFlag, srcWeb);
+            return true;
+        } else {
+
+            $('div.realperson-regen').trigger("click");
+            return false;
+        }
+    }
+
+    function btnYesClick() {
+        $("#AppendUl").html("");
+
+        $(".clsTitleDiv").hide();
+        $(".newscommentsbox").hide();
+        $(".thanksDiv").show();
+        return true;
+    }
+
+    $(function () {
+
+
+        var listName = 'MOH_VisitorsComments';
+        var srcWeb = '/en/Pages/profdoctors.aspx';
+
+        var pageHelpfullFlag = true;
+        $("#HelpfulYesBtn1").click(function () {
+            pageHelpfullFlag = true;
+            $(".clsTitleDiv").hide();
+            $("#validationSummary").hide();
+            $(".newscommentsbox").hide();
+
+            $("#HelpfulYesBtn1").prop('disabled', true);
+            $("#HelpfulNoBtn").prop('disabled', true);
+
+            AddCommentsOnYes(listName, pageHelpfullFlag, srcWeb);
+        });
+        $("#HelpfulNoBtn").click(function () {
+            pageHelpfullFlag = false;
+            $("#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_absoluteDiv").hide();
+            $("#validationSummary").hide();
+            $("#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_CommentDiv").show();
+        });
+        $("#CancelVisitorCommentsBtn").click(function () {
+            $("#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_CommentDiv").hide();
+            $("#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_absoluteDiv").show();
+            $('.emailtxt').val("");
+            $('.txtNotes').val("");
+            $('.txtPhoneNumber').val("");
+            $('.txtName').val("");
+            $("#lblemailValMessage").text("");
+            $("#lblCaptchaValMessage").text("");
+            $("#lblCommentsValMessage").text("");
+            $("#lblPhoneVal").text("");
+        });
+
+        $("#VisitorCommentsBtn").click(function () {
+            $("#AppendUl").html("");
+            $("#lblemailValMessage").text("");
+            $("#lblCaptchaValMessage").text("");
+            $("#lblCommentsValMessage").text("");
+            $("#lblPhoneVal").text("");
+
+            if (validateForm()) {
+                $("#validationSummary").hide();
+                //saveVisitorComments(listName, pageHelpfullFlag, srcWeb);
+                UpdateComments(listName, pageHelpfullFlag, srcWeb);
+            } else {
+                $('div.realperson-regen').trigger("click");
+            }
+
+        });
+    });
+
+    var checkIfInserted = true;
+    // JSOM New Code Start //
+
+
+    function onQuerySucceededUpdateCountss() {
+        $(".newscommentsbox").hide();
+        $("#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_CommentDiv").hide();
+        $("#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_absoluteDiv").hide();
+        $("#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_ThankyouMsgDiv").show();
+       
+        $(".thanksDiv").show();
+
+        checkIfInserted = false;
+    }
+    function onQueryFailedUpdateCountss(sender, args) {
+        $("#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_ThankyouMsgDiv").hide();
+        $("#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_CommentDiv").hide();
+        $("#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_absoluteDiv").hide();
+
+        $("#HelpfulYesBtn1").prop('disabled', false);
+        $("#HelpfulNoBtn").prop('disabled', false);
+        checkIfInserted = true;
+    }
+
+    // JSOM New Code End//
+
+
+
+    var validateForm = function () {
+        var validationFlag = true;
+        if (!validateEmail($('.emailtxt').val())) {
+            validationFlag = false;
+        }
+        if (!ValidateECaptchaEnquiry()) {
+            validationFlag = false;
+        }
+        if (!validateComments($('.txtNotes').val())) {
+            validationFlag = false;
+        }
+        if (!validatePhoneNumber($('.txtPhoneNumber').val())) {
+            validationFlag = false;
+        }
+
+        return validationFlag;
+    }
+
+    var ValidateECaptchaEnquiry = function () {
+
+        var response = grecaptcha.getResponse();
+        if (response.length == 0) {
+
+            $("#lblCaptchaValMessage").text("This field is required.");
+            $(".txtCaptchaEnquiry").val("");
+            return false;
+        }
+        else {
+            $("#lblCaptchaValMessage").text("");
+            return true;
+        }
+    }
+    String.prototype.hashCode = function () {
+        var hash = 5381;
+        if (this.length == 0) return hash;
+        for (i = 0; i < this.length; i++) {
+            char = this.charCodeAt(i);
+            hash = ((hash << 5) + hash) + char;
+            hash = hash & hash; // Convert to 32bit integer
+        }
+        return hash;
+    }
+    function validateEmail(email) {
+        if (email && email != "") {
+            var re = /\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*/;
+            if (!re.test(email)) {
+                $("#lblemailValMessage").text("Please enter a valid email address. Ex: abc@xyz.com");
+            }
+            else {
+                $("#lblemailValMessage").text("");
+            }
+            return re.test(email);
+        } else {
+            $("#lblemailValMessage").text("This field is required.");
+            return false;
+        }
+    }
+
+    function validateComments(txtComments) {
+        if ($.trim(txtComments) == '') {
+            $("#lblCommentsValMessage").text("This field is required. ");
+             return false;
+         }
+         else {
+             $("#lblCommentsValMessage").text("");
+             return true;
+         }
+     }
+
+     function validatePhoneNumber(txtPhone) {
+         if ($.trim(txtPhone) != '') {
+             var reg = /^\d+$/;
+             if (!reg.test(txtPhone)) {
+                 $("#lblPhoneVal").text("Please enter a valid phone number.");
+              }
+              else {
+                  $("#lblPhoneVal").text("");
+              }
+              return reg.test(txtPhone);
+          }
+          else {
+              $("#lblPhoneVal").text("");
+              return true;
+          }
+      }
+
+
+
+      var UpdateComments = function (listName, pageHelpfullFlag, srcWeb) {
+
+          var clientContext = new SP.ClientContext('/');
+          var oList = clientContext.get_web().get_lists().getByTitle(listName);
+
+          var itemCreateInfo = new SP.ListItemCreationInformation();
+          this.oListItem = oList.addItem(itemCreateInfo);
+          var Name = $('#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_txtName').val();
+        var email = $('#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_txtEmail').val();
+         var note = $('#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_txtNotes').val();
+         var Phone = $('#ctl00_g_12e9e620_af74_4465_90c5_9b3148dedfce_txtPhoneNumber').val();
+
+         oListItem.set_item('Title', Name);
+         oListItem.set_item('SenderName', Name);
+         oListItem.set_item('SenderEmail', email);
+         oListItem.set_item('SenderNotes', note);
+         oListItem.set_item('SrcWeb', srcWeb);
+         oListItem.set_item('PhoneNumber', Phone);
+         oListItem.set_item('IsHelpful', pageHelpfullFlag);
+
+         oListItem.update();
+
+         clientContext.load(oListItem);
+
+         clientContext.executeQueryAsync(Function.createDelegate(this, this.onQuerySucceededUpdateCountss), Function.createDelegate(this, this.onQueryFailedUpdateCountss));
+     }
+
+     var AddCommentsOnYes = function (listName, pageHelpfullFlag, srcWeb) {
+
+         var clientContext = new SP.ClientContext('/');
+         var oList = clientContext.get_web().get_lists().getByTitle(listName);
+
+         var itemCreateInfo = new SP.ListItemCreationInformation();
+         this.oListItem = oList.addItem(itemCreateInfo);
+
+         oListItem.set_item('Title', '');
+         oListItem.set_item('SenderName', '');
+         oListItem.set_item('SenderEmail', '');
+         oListItem.set_item('SenderNotes', '');
+         oListItem.set_item('SrcWeb', srcWeb);
+         oListItem.set_item('IsHelpful', true);
+
+         oListItem.update();
+
+         clientContext.load(oListItem);
+
+         $(".newscommentsbox").hide();
+         clientContext.executeQueryAsync(Function.createDelegate(this, this.onQuerySucceededUpdateCountss), Function.createDelegate(this, this.onQueryFailedUpdateCountss));
+         $(".newscommentsbox").hide();
+     }
+</script>
+
+</div>
+               
+ 
+<script>
+if (window.location.href.indexOf("moh.gov.ae/") >= 0) {
+	window.location.href = window.location.href.replace("moh.gov.ae/", "mohap.gov.ae/");
+}
+$(document).ready(function(){
+$("#jschatform").hide();
+$(".survey-btn").click(function(){
+	$(".newscommentsbox").show();
+	$(".survey-form").hide();
+});
+	$("#CancelVisitorCommentsBtn").click(function(){
+		$(".newscommentsbox").hide();
+		$(".survey-form").show();
+	});
+});
+</script>
+                    <div class="noindex container fotter rs_preserve">
+                        <div class="noindex row fotter-top">
+                            <ul>
+                            <li><a href="https://government.ae/en" target="_blank" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE" data-original-title="" title="">
+                                            <img id="img-moe-uae" style="height: 49px;width: 75px;position: relative;top: -9px;" src="/_catalogs/masterpage/MOH_Master/imgs/U.AE%20logo%20with%20borderd.jpg" alt="UAE Government">
+                                        </a></li>
+                                        <li style="padding-bottom:-2px;"><a href="https://ncrm.government.ae/" target="_blank" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE" data-original-title="" aria-label="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE">
+<img id="img-moe-uae-tawasol" style="padding-bottom: -24px;height: 54px;width: 120px;top: -13px;position: relative;" src="https://www.mohap.gov.ae/Style%20Library/Images/Tasaol171.JPG" alt="Tawasol 171"></a></li>
+                                 <li class="hotline">
+                                 <a href="tel:800 111 11" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE" data-original-title="" title="">
+                                    <i class="fa fa-phone" aria-hidden="true" title="Hotline"></i>
+                                    Hotline                              : 
+                                800 111 11
+                                </a>
+                                </li>
+                                <li class="newsletter ">
+                                    <div id="ctl00_HomeNewsLetterSubscription1" __webpartid="{FB959704-B24F-4056-B4AB-4B27889D5FAB}" class="rs_preserve">
+	<div id="ctl00_HomeNewsLetterSubscription1_ctl00_uPrgHomeNewsLetter" style="display:none;" role="status" aria-hidden="true" class="rs_skip rs_preserve">
+		
+        <div id="loader" class="loader">
+            <div id="floatingBarsG">
+                <div class="blockG" id="rotateG_01"></div>
+                <div class="blockG" id="rotateG_02"></div>
+                <div class="blockG" id="rotateG_03"></div>
+                <div class="blockG" id="rotateG_04"></div>
+                <div class="blockG" id="rotateG_05"></div>
+                <div class="blockG" id="rotateG_06"></div>
+                <div class="blockG" id="rotateG_07"></div>
+                <div class="blockG" id="rotateG_08"></div>
+            </div>
+        </div>
+    
+	</div>
+
+<div id="ctl00_HomeNewsLetterSubscription1_ctl00_UPHomeNewsLetter">
+		
+
+        <div class="input-group"><label id="Labelctl00_HomeNewsLetterSubscription1_ctl00_txtEmail" for="ctl00_HomeNewsLetterSubscription1_ctl00_txtEmail" style="font-size: 0px;">Newsletter Signup</label>
+            <input name="ctl00$HomeNewsLetterSubscription1$ctl00$txtEmail" type="text" maxlength="255" id="ctl00_HomeNewsLetterSubscription1_ctl00_txtEmail" class="form-control" placeholder="Newsletter Signup" onkeydown="if (event.keyCode == 13) document.getElementById('ctl00_HomeNewsLetterSubscription1_ctl00_lnkSubmit').click();" value="" aria-describedby="Labelctl00_HomeNewsLetterSubscription1_ctl00_txtEmail">
+            <a id="ctl00_HomeNewsLetterSubscription1_ctl00_lnkSubmit" class="input-group-addon lnkbuttonNewsLetterSubscription" data-toggle="tooltip" data-placement="top" title="" href="" aria-label="Subscribe" data-original-title="Subscribe"><span> <i class="fa fa-send-o" aria-hidden="true"></i></span></a>
+        </div>
+        <span id="ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail" style="color:Red;display:none;" class="rs_skip rs_preserve">Please Enter Email</span>
+
+       
+    
+	<span id="ctl00_HomeNewsLetterSubscription1_ctl00_validEmail" style="color: red; display: none;" class="rs_skip rs_preserve">Please Enter a valid Email</span></div>
+
+</div>
+                                </li>
+                               <li class="numvis">Number of visitors: 
+                                    <span class="color" id="lblVisitorsNumber">6307795</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
+	<div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ1" width="100%" class="ms-WPBody " onlyformepart="true" allowdelete="false" style=""><div class="ms-rtestate-field"><script>
+$(document).ready(function(){
+//debugger;
+
+if(navigator.userAgent!="Mozilla/4.0 (compatible; MSIE 4.01; Windows NT; MS Search 6.0 Robot)")
+{
+var urlLangfooter="";
+var footerSelc="";
+
+if(document.location.href.toLowerCase().indexOf("/ar")>-1)
+{
+urlLangfooter="/portalapi/api/footer/1"
+var footerSelc=".row.fotter-bottom2";
+}
+else
+{
+urlLangfooter="/portalapi/api/footer/2"
+footerSelc=".noindex.row.fotter-bottom2";
+
+
+}
+$.get( urlLangfooter, function( data ) {
+   //debugger;
+  $(footerSelc).children().first().html( data );
+  console.log( "footer Load was performed." );
+});
+
+
+}
+});
+</script></div><div class="ms-clear"></div></div>
+</div>
+                        <div class="noindex row fotter-bottom2">
+                            <ul><li class="footerLi"><a href="https://mail.mohap.gov.ae/" target="_blank" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE" data-original-title="">Staff Email</a></li><li class="footerLi"><a href="https://www.mohap.gov.ae/en/pages/CustomerServiceCharter.aspx" target="_self" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="Customer Happiness Charter" data-original-title="" title="">Customer Happiness Charter</a></li><li class="footerLi"><a href="https://www.mohap.gov.ae/en/Pages/MenuListArchive.aspx" target="_self" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="Archive" data-original-title="" title="">Archive</a></li><li class="footerLi"><a href="https://www.mohap.gov.ae/en/Pages/FAQs.aspx" target="_self" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="FAQ" data-original-title="" title="">FAQ</a></li><li class="footerLi"><a href="https://www.mohap.gov.ae/en/Pages/SiteMap.aspx" target="_self" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="Sitemap" data-original-title="" title="">Sitemap</a></li><li class="footerLi"><a href="https://www.mohap.gov.ae/en/EParticipation/Pages/ContactUs.aspx" target="_self" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="Contact Us" data-original-title="" title="">Contact Us</a></li><li class="footerLi"><a href="https://www.mohap.gov.ae/en/Pages/PrivacyPolicy.aspx" target="_self" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="Privacy Policy" data-original-title="" title="">Privacy Policy</a></li><li class="footerLi"><a href="https://www.mohap.gov.ae/en/Pages/TermsandConditions.aspx" target="_self" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="Terms and Conditions" data-original-title="" title="">Terms and Conditions</a></li><li class="footerLi"><a href="https://www.mohap.gov.ae/en/Pages/AccessibilityPolicy.aspx" target="_self" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="Accessibility Policy" data-original-title="" title="">Accessibility Policy</a></li><li class="footerLi"><a href="https://www.mohap.gov.ae/en/Pages/Disclaimer.aspx" target="_self" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="Disclaimer" data-original-title="" title="">Disclaimer</a></li><li class="footerLi"><a href="https://www.mohap.gov.ae/en/Pages/rss.aspx" target="_self" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="RSS" data-original-title="" title="">RSS</a></li><li class="footerLi"><a href="https://www.mohap.gov.ae/en/AwarenessCenter/Pages/Abbreviations.aspx" target="_self" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="Abbreviations" data-original-title="" title="">Abbreviations</a></li><li class="footerLi"><a href="https://www.mohap.gov.ae/en/Pages/NCSS.aspx" target="_blank" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="Digital Security" data-original-title="" title="">Digital Security</a></li></ul>
+                        </div>
+                        <div class="noindex row fotter-bottom">
+                            <div class="noindex col-md-12 text-center col-sm-12 col-xs-12">
+                                Page last updated on : 
+                                <span class="datefooter" id="datefooter">13 January 2021 7:26:26 AM</span>
+                                <br>
+                                This site is best viewed in 1024x768 screen resolution         
+                                <br>
+                                Supported Browsers
+								<div class="noindex sprite safari" data-toggle="tooltip" data-placement="top" title="" data-original-title="Safari 1.2+ on Apple OS"></div>
+								<div class="noindex sprite ie" data-toggle="tooltip" data-placement="top" title="" data-original-title="Internet Explorer 10.0+"></div>
+								<div class="noindex sprite chrome" data-toggle="tooltip" data-placement="top" title="" data-original-title="Google Chrome 12.0+"></div>
+								<div class="noindex sprite firefox" data-toggle="tooltip" data-placement="top" title="" data-original-title="Firefox 1.0+"></div>
+
+                                <!--<img src="/_catalogs/masterpage/MOH_Master/imgs/safari.png" data-toggle="tooltip" data-placement="top" title="Safari 1.2+">
+                                <img src="/_catalogs/masterpage/MOH_Master/imgs/ie.png" data-toggle="tooltip" data-placement="top" title="Internet Explorer 10.0+">
+                                <img src="/_catalogs/masterpage/MOH_Master/imgs/chrome.png" data-toggle="tooltip" data-placement="top" title="Google Chrome 12.0">
+                                <img src="/_catalogs/masterpage/MOH_Master/imgs/firefox.png" data-toggle="tooltip" data-placement="top" title="Firefox 1.0+">-->
+                                Add-ons &amp; Plug-ins
+
+								<a href="http://get.adobe.com/reader" target="_blank" data-toggle="popover" data-placement="top" aria-label="Adobe Acrobat Reader" data-original-title="Adobe Acrobat Reader" data-trigger="hover" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE">
+									<div class="noindex sprite Adobe"></div>
+								</a>
+                                <a href="http://html5test.com" target="_blank" data-toggle="popover" data-placement="top" aria-label="html 5" data-original-title="html 5" data-trigger="hover" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE">
+                                    <div class="noindex sprite html5"></div>
+								</a>
+                                <a href="http://www.java.com/en/download/index.jsp" target="_blank" data-toggle="popover" data-placement="top" aria-label="Java" data-original-title="Java" data-trigger="hover" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE">
+                                    <div class="noindex sprite Java"></div>
+								</a>
+                                <a href="http://windows.microsoft.com/en-us/windows/windows-media-player" target="_blank" data-toggle="popover" data-placement="top" aria-label="Windows Media Player" data-original-title="Windows Media Player" data-trigger="hover" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE">
+                                    <div class="noindex sprite Windows"></div>
+								</a>
+
+                            <span>We use the following Technologies </span><a data-newtech="true" aria-label="UAE Pass" href="https://selfcare.uaepass.ae/" target="_blank" data-toggle="popover" data-placement="top" data-original-title="UAE Pass" data-trigger="hover" style="font-size: 13px;" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE"><div class="sprite Windows" style="background: none;font-size: 13px;"><img alt="UAE Pass" src="/Style%20Library/Images/UAEPassLowRes.jpg" data-highres="/Style%20Library/Images/UAEPassHighRes.jpg" style="width: 100%;height: 100%;"></div></a> <a aria-label="Gamification" data-newtech="true" href="/en/Pages/Gamification.aspx" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Gamification" data-trigger="hover" style="font-size: 13px;"><div class="sprite Windows" style="background: none;font-size: 13px;"><img alt="Gamification" src="/Style%20Library/Images/GamificationLowRes.png" data-highres="/Style%20Library/Images/GamificationHighRes.png" style="width: 100%;height: 100%;"></div></a> <a aria-label="Blockchain" data-newtech="true" href="/en/MediaCenter/News/Pages/2184.aspx" target="_blank" data-toggle="tooltip" data-placement="top" data-original-title="Blockchain" data-trigger="hover" style="font-size: 13px;"><div class="sprite Windows" style="background: none;font-size: 13px;"><img alt="Blockchain" src="/Style%20Library/Images/BlockChainLowRes.png" data-highres="/Style%20Library/Images/BlockChainHighRes.png" style="width: 100%;height: 100%;"></div></a> </div>
+                            <div class="noindex col-md-12 text-center col-sm-12 col-xs-12">Our Apps available on <a data-appplatforms="true" href="/en/services/Pages/DownloadApps.aspx" target="_blank" data-toggle="tooltip" data-placement="top" aria-label="Apple Store" data-original-title="Apple Store" data-trigger="hover"><span class="noindex"><img alt="Apple Store" style="width:25px" src="/PublishingImages/Footer/apple.png"></span></a><a data-appplatforms="true" href="/en/services/Pages/DownloadApps.aspx" target="_blank" data-toggle="tooltip" data-placement="top" aria-label="Play Store" data-original-title="Play Store" data-trigger="hover"><span class="noindex"><img alt="Play Store" style="width:25px" src="/PublishingImages/Footer/android.png"></span></a><a data-appplatforms="true" href="/en/services/Pages/DownloadApps.aspx" target="_blank" data-toggle="tooltip" data-placement="top" aria-label="Huawei Store" data-original-title="Huawei Store" data-trigger="hover"><span class="noindex"><img alt="Huawei Store" style="width:25px" src="/PublishingImages/Footer/Huawei.png"></span></a></div><div class="noindex col-md-12 text-center col-sm-12 col-xs-12"><span>UAE SDG </span><a href="https://uaesdgs.ae/en" target="_blank" data-toggle="popover" data-placement="top" aria-label="UAE SDG" data-original-title="UAE SDG" data-trigger="hover" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE"><span class="noindex"><img alt="UAE SDG" style="width:25px" src="/PublishingImages/SDG/Buzz-logo.png"></span></a></div><div class="noindex col-md-12 text-center col-sm-12 col-xs-12">
+                                <a href="/en/Pages/CopyRight.aspx">Copyright ©2020. All rights reserved. </a>
+
+                                Ministry of Health &amp; Prevention.                 
+                                United Arab Emirates     
+                                 <br><a href="http://وزارةالصحةووقايةالمجتمع.امارات" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="This link will direct you to an external website that may have different content and privacy policies from ministry of health and prevention UAE" data-original-title="" title="">وزارةالصحةووقايةالمجتمع.امارات/</a>                      
+                            </div>
+                        </div>
+
+                    </div>
+                    <!--End Fotter-->
+                    <!-- ===== STARTER: This decides where the web part menu lives ===================================================== -->
+
+                </div>
+            </div>
+            <!-- ===== STARTER: Main Scrolling Body Ends Here ================================================================================= -->
+
+            <!-- ===== STARTER: Needed for form stuff ========================================================================================= -->
+            
+				<script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0x9BBA0AFC6BFF43D8F3B39988FD7551D6D26EC3D6B8DB1CC162FF77AFACBA5181C74F0B797F89A17F7B3C66538771AF97ABD87690FEA735481DFE2E2EFE57B96B,21 Jan 2021 12:25:57 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+            
+            
+                    <!--script 
+		id="happiness-meter-widget-web-script" 
+		async
+		src="https://happinessmeter.gov.ae/webwidget/web.js"
+		data-container-id​="happiness-meter-widget-container"
+		data-language​="en"
+		data-key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ODJ9.6Tjm9aSZKrV-8LQQU_9kCD3oSF0ejt0UQW10BDgfW_Q"
+		data-on-finish​="console.log(textStatus)"
+		data-entity-sequence-id​="110"
+		data-customer-id="0"
+		data-email="happinessmeter@happinessmeter.gov.ae"
+		data-phone​="+971000000000"
+		data-transaction-id​="0"
+		data-emirates-id​="0"
+		data-version​="latest"
+		data-delay="0"
+		data-mode="click"
+		data-mode-click-id​="happiness-meter-widget-web-button"
+		data-css-url="https://happinessmeter.gov.ae/webwidget/web.css"></script-->
+
+
+            <!-- ===== STARTER: Hidden Placeholders =========================================================================================== -->
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+        
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_sendPageWP2_reqReceieverName"), document.getElementById("ctl00_sendPageWP2_reqReceiverEmail"), document.getElementById("ctl00_sendPageWP2_regexvalReceiverEmail"), document.getElementById("ctl00_sendPageWP2_reqSenderName"), document.getElementById("ctl00_sendPageWP2_reqSenderEmail"), document.getElementById("ctl00_sendPageWP2_regexvalSenderEmail"), document.getElementById("ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvMedicalDistrict"), document.getElementById("ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvSpeciality"), document.getElementById("ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var ctl00_sendPageWP2_reqReceieverName = document.all ? document.all["ctl00_sendPageWP2_reqReceieverName"] : document.getElementById("ctl00_sendPageWP2_reqReceieverName");
+ctl00_sendPageWP2_reqReceieverName.controltovalidate = "ctl00_sendPageWP2__txtReceieverName";
+ctl00_sendPageWP2_reqReceieverName.focusOnError = "t";
+ctl00_sendPageWP2_reqReceieverName.errormessage = "Receiver\'s Name is Required.";
+ctl00_sendPageWP2_reqReceieverName.display = "Dynamic";
+ctl00_sendPageWP2_reqReceieverName.validationGroup = "SharePageGroup";
+ctl00_sendPageWP2_reqReceieverName.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_sendPageWP2_reqReceieverName.initialvalue = "";
+var ctl00_sendPageWP2_reqReceiverEmail = document.all ? document.all["ctl00_sendPageWP2_reqReceiverEmail"] : document.getElementById("ctl00_sendPageWP2_reqReceiverEmail");
+ctl00_sendPageWP2_reqReceiverEmail.controltovalidate = "ctl00_sendPageWP2__txtReceiverEmail";
+ctl00_sendPageWP2_reqReceiverEmail.focusOnError = "t";
+ctl00_sendPageWP2_reqReceiverEmail.errormessage = "Receiver\'s Email Address is Required.";
+ctl00_sendPageWP2_reqReceiverEmail.display = "Dynamic";
+ctl00_sendPageWP2_reqReceiverEmail.validationGroup = "SharePageGroup";
+ctl00_sendPageWP2_reqReceiverEmail.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_sendPageWP2_reqReceiverEmail.initialvalue = "";
+var ctl00_sendPageWP2_regexvalReceiverEmail = document.all ? document.all["ctl00_sendPageWP2_regexvalReceiverEmail"] : document.getElementById("ctl00_sendPageWP2_regexvalReceiverEmail");
+ctl00_sendPageWP2_regexvalReceiverEmail.controltovalidate = "ctl00_sendPageWP2__txtReceiverEmail";
+ctl00_sendPageWP2_regexvalReceiverEmail.focusOnError = "t";
+ctl00_sendPageWP2_regexvalReceiverEmail.errormessage = "Please enter a valid email address. Ex: abc@xyz.com";
+ctl00_sendPageWP2_regexvalReceiverEmail.display = "Dynamic";
+ctl00_sendPageWP2_regexvalReceiverEmail.validationGroup = "SharePageGroup";
+ctl00_sendPageWP2_regexvalReceiverEmail.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_sendPageWP2_regexvalReceiverEmail.validationexpression = "\\w+([-+.]\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+var ctl00_sendPageWP2_reqSenderName = document.all ? document.all["ctl00_sendPageWP2_reqSenderName"] : document.getElementById("ctl00_sendPageWP2_reqSenderName");
+ctl00_sendPageWP2_reqSenderName.controltovalidate = "ctl00_sendPageWP2__txtSenderName";
+ctl00_sendPageWP2_reqSenderName.focusOnError = "t";
+ctl00_sendPageWP2_reqSenderName.errormessage = "Sender\'s Name is Required.";
+ctl00_sendPageWP2_reqSenderName.display = "Dynamic";
+ctl00_sendPageWP2_reqSenderName.validationGroup = "SharePageGroup";
+ctl00_sendPageWP2_reqSenderName.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_sendPageWP2_reqSenderName.initialvalue = "";
+var ctl00_sendPageWP2_reqSenderEmail = document.all ? document.all["ctl00_sendPageWP2_reqSenderEmail"] : document.getElementById("ctl00_sendPageWP2_reqSenderEmail");
+ctl00_sendPageWP2_reqSenderEmail.controltovalidate = "ctl00_sendPageWP2__txtSenderEmail";
+ctl00_sendPageWP2_reqSenderEmail.focusOnError = "t";
+ctl00_sendPageWP2_reqSenderEmail.errormessage = "Sender\'s Email is Required.";
+ctl00_sendPageWP2_reqSenderEmail.display = "Dynamic";
+ctl00_sendPageWP2_reqSenderEmail.validationGroup = "SharePageGroup";
+ctl00_sendPageWP2_reqSenderEmail.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_sendPageWP2_reqSenderEmail.initialvalue = "";
+var ctl00_sendPageWP2_regexvalSenderEmail = document.all ? document.all["ctl00_sendPageWP2_regexvalSenderEmail"] : document.getElementById("ctl00_sendPageWP2_regexvalSenderEmail");
+ctl00_sendPageWP2_regexvalSenderEmail.controltovalidate = "ctl00_sendPageWP2__txtSenderEmail";
+ctl00_sendPageWP2_regexvalSenderEmail.focusOnError = "t";
+ctl00_sendPageWP2_regexvalSenderEmail.errormessage = "Please enter a valid email address. Ex: abc@xyz.com";
+ctl00_sendPageWP2_regexvalSenderEmail.display = "Dynamic";
+ctl00_sendPageWP2_regexvalSenderEmail.validationGroup = "SharePageGroup";
+ctl00_sendPageWP2_regexvalSenderEmail.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_sendPageWP2_regexvalSenderEmail.validationexpression = "\\w+([-+.]\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+var ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvMedicalDistrict = document.all ? document.all["ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvMedicalDistrict"] : document.getElementById("ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvMedicalDistrict");
+ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvMedicalDistrict.controltovalidate = "ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_ddlMedicalDistrict";
+ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvMedicalDistrict.errormessage = "Medical District is mandatory";
+ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvMedicalDistrict.display = "Dynamic";
+ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvMedicalDistrict.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvMedicalDistrict.initialvalue = "-1";
+var ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvSpeciality = document.all ? document.all["ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvSpeciality"] : document.getElementById("ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvSpeciality");
+ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvSpeciality.controltovalidate = "ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_ddlSpeciality";
+ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvSpeciality.errormessage = "Speciality is mandatory";
+ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvSpeciality.display = "Dynamic";
+ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvSpeciality.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvSpeciality.initialvalue = "-1";
+var ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail = document.all ? document.all["ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail"] : document.getElementById("ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail");
+ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail.controltovalidate = "ctl00_HomeNewsLetterSubscription1_ctl00_txtEmail";
+ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail.focusOnError = "t";
+ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail.errormessage = "Please Enter Email";
+ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail.display = "Dynamic";
+ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail.validationGroup = "HomeNewsLetterSubscriptionGroup";
+ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000; IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{9e099a0b-48b4-41e5-bce0-9367c7fab6cb}",itemId: 47,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fen\u002fPages",itemPermissions:{High:16,Low:2147680321}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        function _cUpdx63829de2201a4365a3904788f682d0a3(){var myd = null; if (typeof(datax63829de2201a4365a3904788f682d0a3) != 'undefined') {myd = datax63829de2201a4365a3904788f682d0a3;} var myc = document.getElementById('ctl00_x63829de2201a4365a3904788f682d0a3');_cUpdcx63829de2201a4365a3904788f682d0a3(myd, myc);}function _cUpdcx63829de2201a4365a3904788f682d0a3(data, ctrl){SiteLogoImagePageUpdate(ctrl, data);}var g_clientIdDeltaPlaceHolderPageTitleInTitleArea = "DeltaPlaceHolderPageTitleInTitleArea";
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_sendPageWP2_upSendPage","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_sendPageWP2_uPrgSendPage"));
+});
+
+document.getElementById('ctl00_sendPageWP2_reqReceieverName').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_sendPageWP2_reqReceieverName'));
+}
+
+document.getElementById('ctl00_sendPageWP2_reqReceiverEmail').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_sendPageWP2_reqReceiverEmail'));
+}
+
+document.getElementById('ctl00_sendPageWP2_regexvalReceiverEmail').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_sendPageWP2_regexvalReceiverEmail'));
+}
+
+document.getElementById('ctl00_sendPageWP2_reqSenderName').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_sendPageWP2_reqSenderName'));
+}
+
+document.getElementById('ctl00_sendPageWP2_reqSenderEmail').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_sendPageWP2_reqSenderEmail'));
+}
+
+document.getElementById('ctl00_sendPageWP2_regexvalSenderEmail').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_sendPageWP2_regexvalSenderEmail'));
+}
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_updatePnlProfessionalDoctors","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_uPrgComments"));
+});
+
+document.getElementById('ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvMedicalDistrict').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvMedicalDistrict'));
+}
+
+document.getElementById('ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvSpeciality').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_ctl54_g_358d628f_a927_4218_9168_f21c190735a7_ctl00_rfvSpeciality'));
+}
+Sys.Application.add_init(function() {
+    $create(Sys.UI._UpdateProgress, {"associatedUpdatePanelId":"ctl00_HomeNewsLetterSubscription1_ctl00_UPHomeNewsLetter","displayAfter":100,"dynamicLayout":true}, null, null, $get("ctl00_HomeNewsLetterSubscription1_ctl00_uPrgHomeNewsLetter"));
+});
+
+document.getElementById('ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_HomeNewsLetterSubscription1_ctl00_reqEmail'));
+}
+//]]>
+</script>
+</form>
+
+        <!-- ===== STARTER: Adds extra stuff like another form for Survey management ====================================================== -->
+        
+        <script type="text/javascript" src="/_catalogs/masterpage/MOH_Master/lib/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="/_catalogs/masterpage/MOH_Master/lib/bootstrap.min.js"></script>
+        <script type="text/javascript" src="/_catalogs/masterpage/MOH_Master/lib/wow.min.js"></script>
+		<script type="text/javascript" src="/_catalogs/masterpage/MOH_Master/lib/moment-with-locales.min.js"></script>
+        <script type="text/javascript" src="/_catalogs/masterpage/MOH_Master/lib/jquery.rateyo.min.js"></script>
+        <script type="text/javascript" src="/_catalogs/masterpage/MOH_Master/lib/perfect-scrollbar.jquery.min.js"></script>
+        <script type="text/javascript" src="/_catalogs/masterpage/MOH_Master/lib/owl.carousel.min.js"></script>
+        <script type="text/javascript" src="/Style%20Library/js/custom.js"></script>
+        <script type="text/javascript" src="/Style%20Library/js/Print/printPreview.js"></script>
+        <script type="text/javascript" src="/_catalogs/masterpage/MOH_Master/js/scripts.js?io=1w24wwi"></script>
+                
+        
+            <style>
+        #modaldialogid {
+            z-index: 9999999;
+        }
+    </style>
+		
+		 <!--button class="btn send" data-toggle="modal" data-target="#modalclass" id="btnsend" style="position:fixed;bottom:30px;left:0;"> Web Chat</button>
+
+		<div class="modal fade" id="modalclass" tabindex="-1" role="dialog">
+        <div class="modal-dialog" id="modaldialogid" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        
+                    <h3 class="modal-title r-color ">Web Chat</h3>
+                </div>
+                <div class="modal-body">
+                    <div id="formContainer">
+
+
+                        <form name="form1" id="chatForm" method="POST" action="https://ccclive.contactcentre.ae/MOH/chat.asp" target="TheWindow">
+                            <div class="row">
+                                <div class="form-group col-xs-12">
+                                    <input type="text" class="form-control" id="txtName" name="txtName" placeholder="Name*" value="">
+                                    <div id="messageName" class="lblvalidaor rs_skip rs_preserve" style="color: red;">This field is required.</div>
+
+                                </div>
+                                <div class="form-group col-xs-12">
+                                    <input type="text" class="form-control valid" id="txtQuestion" name="txtQuestion" placeholder="Question*" value="">
+                                    <div id="messageQuestion" class="lblvalidaor rs_skip rs_preserve" style="color: red;">This field is required.</div>
+
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="form-group col-xs-12" >
+                                    <input type="text" class="form-control" id="txtChatType" name="txtChatType" placeholder="Chat Type" value="portal">
+
+                                </div>
+                                <div class="form-group col-xs-12" style="display:none">
+                                    <select type="text" class="form-control" id="Language" name="Language" placeholder="Language">
+
+                                        <option value="0" selected="selected" disabled="disabled">en</option>
+
+                                    </select>
+
+                                </div>
+
+
+                            </div>
+							
+							 <div class="row">
+
+                                <div class="form-group col-xs-12">
+                                    <input type="text" class="form-control" id="txtQueue" name="txtQueue" placeholder="queue" value="mohappchat">
+
+                                </div>
+                            </div>
+							
+                            <div class="row" style="display:none;">
+                                <div class="form-group col-xs-12">
+                                    <input type="text" class="form-control " id="txtAccNumber" name="txtAccNumber" placeholder="Account Number" value="">
+
+                                </div>
+                               
+                            </div>
+ <div class="row" >
+  <div class="form-group col-xs-12">
+                                    <input type="text" class="form-control " id="txtEmail" name="txtEmail" placeholder="Email" value="">
+
+                                </div>
+ </div>
+                           
+
+<button type="button" id="btnChat"  class="btn send sendpop" >Initiate Web Chat</button>
+
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+
+                        
+                    
+                        
+</div>
+                </div><!-- /.modal-content -->
+            <!--/div--><!-- /.modal-dialog -->
+        <!--/div>
+        </div>
+	
+<script type="text/javascript">
+
+		   $('#btnChat').click(function(){
+		        if ($('#txtName').val() == ""){
+		            $("#messageName").show();
+					return false;
+		        } 
+				
+				if ($('#txtQuestion').val() == ""){
+		            $("#messageQuestion").show();
+					return false;
+		        } 
+
+				submitForm1();
+		        
+		    });
+
+	$("#btnsend").click(function(event){
+		event.preventDefault();
+		$("#messageName").hide();
+		$("#messageQuestion").hide();
+	});
+	
+    function submitForm() {
+        document.form1.target = "myActionWin"; window.open("", "TitlemyActionWin", "width=600,height=500,toolbar=0"); document.form1.submit();
+    }
+	
+	function submitForm1() {
+	
+	//alert(document.getElementById('txtName').value +" - "+ document.getElementById('txtQuestion').value +" - "+ document.getElementById('txtQueue').value +" - "+ document.getElementById('txtAccNumber').value +" - "+ document.getElementById('txtEmail').value +" - "+ document.getElementById('txtChatType').value);
+	
+		var f = document.createElement("form");
+			f.setAttribute('method',"post");
+			f.setAttribute('id',"jschatform");
+			f.setAttribute('action',"https://ccclive.contactcentre.ae/MOH/chat.asp");
+
+		var tname = document.createElement("input"); //input element, text
+			tname.setAttribute('type',"text");
+			tname.setAttribute('name',"name");
+			tname.setAttribute('id',"txtName");
+			tname.setAttribute('value',document.getElementById('txtName').value);
+			
+		var tqs = document.createElement("input"); //input element, text
+			tqs.setAttribute('type',"text");
+			tqs.setAttribute('name',"question");
+			tqs.setAttribute('id',"question");
+			tqs.setAttribute('value',document.getElementById('txtQuestion').value);
+			
+		var tchat = document.createElement("input"); //input element, text
+			tchat.setAttribute('type',"text");
+			tchat.setAttribute('name',"ChatType");
+			tchat.setAttribute('id',"ChatType");
+			tchat.setAttribute('value',document.getElementById('txtChatType').value);
+			
+		var tlang = document.createElement("input"); //input element, text
+			tlang.setAttribute('type',"text");
+			tlang.setAttribute('name',"lang");
+			tlang.setAttribute('id',"Language");
+			tlang.setAttribute('value',"en");
+			
+		var tqueue = document.createElement("input"); //input element, text
+			tqueue.setAttribute('type',"text");
+			tqueue.setAttribute('name',"queue");
+			tqueue.setAttribute('id',"mohappchat");
+			tqueue.setAttribute('value',document.getElementById('txtQueue').value);
+			
+	    var temail = document.createElement("input"); //input element, text
+			temail.setAttribute('type',"text");
+			temail.setAttribute('name',"account_number");
+			temail.setAttribute('id',"txtAccountNumber");
+			temail.setAttribute('value',document.getElementById('txtAccNumber').value);
+			
+		var tphone = document.createElement("input"); //input element, text
+			tphone.setAttribute('type',"text");
+			tphone.setAttribute('name',"mail");
+			tphone.setAttribute('id',"txtEmail");
+			tphone.setAttribute('value',document.getElementById('txtEmail').value);
+
+		
+		f.appendChild(tname);
+		f.appendChild(tqs);
+		f.appendChild(tchat);
+		f.appendChild(tlang);
+		f.appendChild(tqueue);
+		f.appendChild(temail);
+		f.appendChild(tphone);
+		
+		f.target = "TitlemyActionWin";
+		document.body.appendChild(f);
+		window.open("", "TitlemyActionWin", "width=600,height=500,toolbar=0");
+		f.submit();
+		
+		document.getElementById("jschatform").style.display="none";
+		
+      //  window.open('', 'TheWindow', "width=600,height=500,toolbar=0");
+		//formid.submit();
+    }
+
+
+</script-->
+        
+    
+<ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div class="navbar-fixed-bottom" style="padding-bottom: 5px; padding-top: 10px; text-align: center;"><div class="col-xs-3"><a href="#" onclick="ClickChatBot();"><img id="resChatBotIcon" style="width:40%" border="0" alt="" src="https://s3.amazonaws.com/mkesari.bold360demo.com/rsz_dirtimg.png"></a></div><div class="col-xs-3"><a href="#"><img onclick="ClickSignLang();" src="https://mindrocketsinc.com/api/imgs/deaficon.png" style="width:35%;"></a></div><div class="col-xs-3"><a href="/en/Aboutus/Pages/COVID-19.aspx" class=""><img border="0" alt="COVID-19 Virtual Doctor" src="/PublishingImages/icons-dr-Mobile.png" style="width: 42%;" mr-allow-long="true" class="mr-tooltip"></a></div><div class="col-xs-3"><a href="#" onclick="ClickHappinessMeter();" style="color:white;font-size: 1.6em;" class=""><i class="fa fa-smile-o fa-lg" title=""></i></a></div></div><div title="COVID-19 Virtual Doctor" style="display: block;width: 76px;height: 76px;bottom: 12%;text-align: left;z-index: 3141591;overflow: hidden;position: fixed;left: 0%;"><div><a href="/en/Aboutus/Pages/COVID-19.aspx"><img border="0" alt="COVID-19 Virtual Doctor" src="/PublishingImages/icons%20dr.png" style="width: 100%;"></a></div></div><script src="https://mindrocketsapis.com/web/client/Latest/toolkit.js"></script><script src="https://mindrocketsapis.com/web/client/Latest/signsplayer.js"></script><script src="https://mindrocketsapis.com/web/client/Latest/tooltip_add.js"></script><script src="https://mindrocketsapis.com/web/client/Mohap/integrator.js"></script><script src="/_catalogs/masterpage/MOH_Master/js/IntroJS/intro.min.js"></script><div id="DeafServicePlace"><div id="DeafTranslate" title="Sign Language" style="    margin: 5px;    color: #FFFFFF;"><div style="text-align:center;"><img src="https://mindrocketsinc.com/api/imgs/deaficon.png" style="float: left;" width="20"> Sign Language</div></div></div><style>div#DeafServicePlace {     cursor: pointer;   width: 260px;    height: 30px;    position: fixed;   bottom: 5px;   background: #BE9647;    padding-bottom: 6px;    border-radius: 6px;    left: 80px;z-index:1000000000;}</style><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google Translate"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Original text</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div><style> #mr_sign_player999{ }</style><div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><div id="myEmrgencyModal" class="modal fade in" role="dialog" style="display: none; padding-right: 17px"> <div class="modal-dialog"> <!-- Modal content--> <div class="modal-content"> <div class="modal-header main-menu"><button type="button" class="close" data-dismiss="modal">×</button><h4 class="modal-title"><span><i class="fa fa-bell-o fa-4" aria-hidden="true" style=" color: white; "></i></span><span style=" color: white; "> Emergency Section </span></h4></div><div id="EmregMsg" class="modal-body"><p></p><div>COVID-19 Vaccination: Please print and fill the below form before going to the vaccination center. Consent form to take registered COVID-19 in the UAE(Copy of this consent form will be kept in your medical file).</div><p></p> <p></p><div id="emergencySectionLink" class="row" style="font-size: larger; text-align: center;"><a href="https://www.mohap.gov.ae/Documents/VaccinationCenters/MOHAP_Consent%20Form_Ara_Eng.pdf" style="">Please click here to download the consent form</a></div><p></p> </div> <div class="modal-footer"> <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> </div> </div> </div> </div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=r8jtf1oixV0IGff4hgB4EzDF&amp;k=6Lf8nhMUAAAAAJdikpDSnLSswLyFLsAlUfaDAIrG&amp;cb=389n0osvfeqg" name="c-wori6y52xp71" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div><script id="happiness-meter-widget-web-script" async="" src="https://happinessmeter.gov.ae/webwidget/web.js" data-container-id​="happiness-meter-widget-container" data-language​="en" data-key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ODJ9.6Tjm9aSZKrV-8LQQU_9kCD3oSF0ejt0UQW10BDgfW_Q" data-on-finish​="console.log(textStatus)" data-entity-sequence-id​="110" data-customer-id="0" data-email="happinessmeter@happinessmeter.gov.ae" data-phone​="+971000000000" data-transaction-id​="0" data-emirates-id​="0" data-version​="latest" data-delay="0" data-mode="click" data-mode-click-id​="happiness-meter-widget-web-button" data-css-url="https://happinessmeter.gov.ae/webwidget/web.css"></script><div class="happiness-meter-widget-web-backdrop" style="display: none;"></div><div id="happiness-meter-widget-web-container" class="happiness-meter-widget-web-container cleanslate" style="display: none;"><div class="happiness-meter-widget-web-wrapper h-100">
+  <div class="happiness-meter-widget-web-main h-100" data-current-slide="2">
+    <div class="wrapper h-100">
+      <section class="slide" data-slide="2">
+        <div class="slide-number slide-2">
+          <div class="slide__content">
+            <div class="slide-content__header"></div>
+            <div class="slide-content__question"></div>
+            <div class="slide-content__hero-sub"></div>
+            <div class="slide-content__background">
+              <div class="happy__face"></div>
+            </div>
+          </div>
+          <div class="slide__footer">
+            <div class="slide-footer__header">
+              <ul class="happiness__options">
+                <li class="happiness__option noop"></li>
+                <li class="happiness__option cool"></li>
+              </ul>
+            </div>
+            <div class="slide-footer__answer">
+              <div class="happiness-meter">
+                <div class="meter__wrapper">
+                  <div class="happiness-slider"></div>
+                </div>
+              </div>
+            </div>
+            <div class="slide-footer__footer">
+              <span class="percentage">0 %</span>
+            </div>
+            <div class="slide-footer__background"></div>
+          </div>
+        </div>
+      </section>
+      <section class="slide" data-slide="7">
+        <div class="slide-number slide-0">
+          <p class="welcome"></p>
+          <div class="logo"></div>
+          <h1 class="hero"></h1>
+        </div>
+      </section>
+    </div>
+  </div>
+  <aside>
+    <div class="transparent__control" data-transparent-double-tap="">
+    </div>
+  </aside>
+</div>
+</div><script async="async" src="https://www.google-analytics.com/analytics.js"></script><div id="happiness-meter-widget-web-button" class="happiness-meter-widget-web-button" dir="ltr"></div><div class="bcFloat" style="display: block; width: 76px; height: 76px; left: 0px; top: 500px; text-align: left; z-index: 3141591; overflow: hidden; position: fixed;"><div style="position: absolute; width: 76px; height: 76px;"><a href="#"><img id="0.31827439448815986" border="0" alt="" src="https://s3.amazonaws.com/mkesari.bold360demo.com/rsz_dirtimg.png"></a></div></div></body></html>
