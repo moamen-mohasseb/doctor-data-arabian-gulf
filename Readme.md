@@ -8,6 +8,8 @@
 
 ## Get Data from site https://www.mohap.gov.ae/en/Pages/profdoctors.aspx ##
  * crawling all expected result from the site eatch page in file 
- * get data from each file into pandas data frame 
+ * get data from each file into list
+ * using ** RegExr ** to extract data 
+ * adding all lists in one pandas data frame
  * export data to csv file
  * attached file as example not all data from site
